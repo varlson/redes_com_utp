@@ -5,7 +5,7 @@ from utilities import *
 # extractor('cases-brazil-cities-time', 'terrestrial', 'Separados/terrestrial', 'terrestrial', Fal2s)
 
 all_process = ["aerialUTP", "fluvial", "terrestrial"]
-for process in all_process[]:
+for process in all_process:
     
     name = process
     
