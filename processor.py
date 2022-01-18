@@ -39,11 +39,6 @@ def extractor(file, network, full_path, name, isAereal): # This function extract
     dataFrame = pd.read_csv(path+file+'.csv')
     
     
-    # df_cities = dataFrame['city']
-    # df_geocode = np.asarray(dataFrame['ibgeID'])
-    
-    # size = len(df_cities)
-    
     g_cities = [x.lower() for x in g.vs['label']]
     g_geocode = [float(x) for x in g.vs['geocode']]
     
