@@ -1,0 +1,5315 @@
+Cidades,Geocode
+são paulo,1100015.0
+são paulo,1100023.0
+são paulo,1100031.0
+são paulo,1100049.0
+são paulo,1100056.0
+são paulo,1100064.0
+são paulo,1100072.0
+são paulo,1100080.0
+são paulo,1100098.0
+barra mansa,1100106.0
+são paulo,1100114.0
+barra mansa,1100122.0
+feira de santana,1100130.0
+rio de janeiro,1100148.0
+são paulo,1100155.0
+barra mansa,1100189.0
+brasília,1100205.0
+feira de santana,1100254.0
+rio de janeiro,1100288.0
+santana de parnaíba,1100296.0
+são paulo,1100304.0
+barra mansa,1100320.0
+brasília,1100338.0
+divinópolis,1100346.0
+feira de santana,1100379.0
+maceió,1100403.0
+rio de janeiro,1100452.0
+santana de parnaíba,1100502.0
+são paulo,1100601.0
+barra mansa,1100700.0
+brasília,1100809.0
+divinópolis,1100908.0
+feira de santana,1100924.0
+maceió,1100940.0
+rio de janeiro,1101005.0
+santana de parnaíba,1101104.0
+são paulo,1101203.0
+barra mansa,1101302.0
+brasília,1101401.0
+campo bom,1101435.0
+divinópolis,1101468.0
+feira de santana,1101476.0
+maceió,1101484.0
+rio de janeiro,1101492.0
+santana de parnaíba,1101500.0
+são paulo,1101559.0
+barra mansa,1101609.0
+brasília,1101708.0
+campo bom,1101757.0
+divinópolis,1101807.0
+feira de santana,1200013.0
+maceió,1200054.0
+porto alegre,1200104.0
+rio de janeiro,1200138.0
+santana de parnaíba,1200179.0
+são paulo,1200203.0
+barra mansa,1200302.0
+brasília,1200336.0
+campo bom,1200385.0
+caxias do sul,1200401.0
+cianorte,1200427.0
+curitiba,1200450.0
+divinópolis,1200500.0
+feira de santana,1200609.0
+ferraz de vasconcelos,1200708.0
+florianópolis,1200807.0
+goiânia,1300144.0
+ipatinga,1300706.0
+maceió,1301100.0
+natal,1301654.0
+niterói,1301704.0
+porto alegre,1301852.0
+recife,1301902.0
+rio verde,1302009.0
+rio de janeiro,1302405.0
+santana de parnaíba,1302504.0
+são paulo,1302553.0
+barra mansa,1302603.0
+brasília,1302702.0
+campo bom,1303205.0
+caxias do sul,1303304.0
+cianorte,1303536.0
+curitiba,1303569.0
+divinópolis,1304005.0
+feira de santana,1400027.0
+ferraz de vasconcelos,1400050.0
+florianópolis,1400100.0
+goiânia,1400159.0
+ipatinga,1400175.0
+joinville,1400209.0
+maceió,1400233.0
+manaus,1400282.0
+natal,1400308.0
+niterói,1400407.0
+porto alegre,1400456.0
+recife,1400472.0
+rio verde,1400506.0
+rio de janeiro,1400605.0
+salvador,1500107.0
+santana de parnaíba,1500131.0
+são paulo,1500206.0
+aracaju,1500347.0
+barra mansa,1500404.0
+brasília,1500503.0
+campo bom,1500602.0
+campo grande,1500800.0
+caxias do sul,1500859.0
+cianorte,1500909.0
+curitiba,1500958.0
+divinópolis,1501204.0
+feira de santana,1501253.0
+ferraz de vasconcelos,1501303.0
+florianópolis,1501402.0
+goiânia,1501451.0
+ipatinga,1501501.0
+joinville,1501576.0
+juiz de fora,1501600.0
+maceió,1501709.0
+manaus,1501725.0
+natal,1501758.0
+niterói,1501782.0
+patrocínio,1501907.0
+porto alegre,1501956.0
+rancho queimado,1502004.0
+recife,1502103.0
+rio verde,1502152.0
+rio de janeiro,1502202.0
+salvador,1502301.0
+santana de parnaíba,1502400.0
+são paulo,1502608.0
+aracaju,1502707.0
+barra mansa,1502756.0
+brasília,1502764.0
+braço do norte,1502772.0
+campo bom,1502855.0
+campo grande,1502905.0
+caxias do sul,1502939.0
+cianorte,1502954.0
+curitiba,1503044.0
+divinópolis,1503077.0
+feira de santana,1503093.0
+ferraz de vasconcelos,1503200.0
+florianópolis,1503309.0
+goiânia,1503408.0
+ipatinga,1503457.0
+joinville,1503507.0
+juiz de fora,1503606.0
+maceió,1503705.0
+manaus,1503754.0
+natal,1503804.0
+niterói,1504059.0
+patrocínio,1504109.0
+porto alegre,1504208.0
+rancho queimado,1504307.0
+recife,1504406.0
+rio verde,1504422.0
+rio de janeiro,1504455.0
+salvador,1504604.0
+santana de parnaíba,1504703.0
+são paulo,1504752.0
+anápolis,1504802.0
+aquiraz,1504950.0
+aracaju,1504976.0
+barra mansa,1505007.0
+belo horizonte,1505031.0
+brasília,1505064.0
+braço do norte,1505106.0
+campo bom,1505304.0
+campo grande,1505403.0
+caxias do sul,1505437.0
+cianorte,1505486.0
+curitiba,1505494.0
+divinópolis,1505502.0
+feira de santana,1505536.0
+ferraz de vasconcelos,1505551.0
+florianópolis,1505601.0
+fortaleza,1505635.0
+goiânia,1505650.0
+ipatinga,1506005.0
+joinville,1506104.0
+juiz de fora,1506112.0
+maceió,1506138.0
+manaus,1506161.0
+mauá,1506187.0
+natal,1506195.0
+niterói,1506203.0
+patrocínio,1506302.0
+porto alegre,1506351.0
+porto seguro,1506500.0
+rancho queimado,1506559.0
+recife,1506583.0
+rio verde,1506609.0
+rio de janeiro,1506708.0
+salvador,1506807.0
+santana de parnaíba,1506906.0
+santo andré,1507003.0
+são bernardo do campo,1507102.0
+são caetano do sul,1507151.0
+são paulo,1507201.0
+anápolis,1507300.0
+aquiraz,1507409.0
+aracaju,1507458.0
+barra mansa,1507466.0
+belo horizonte,1507474.0
+belo jardim,1507508.0
+brasília,1507607.0
+braço do norte,1507755.0
+campo bom,1507805.0
+campo grande,1507904.0
+campo largo,1507953.0
+caxias do sul,1507961.0
+cianorte,1508001.0
+coronel fabriciano,1508035.0
+curitiba,1508050.0
+divinópolis,1508084.0
+feira de santana,1508100.0
+ferraz de vasconcelos,1508126.0
+florianópolis,1508159.0
+fortaleza,1508209.0
+goiânia,1508308.0
+guarulhos,1508407.0
+ipatinga,1600055.0
+jaboatão dos guararapes,1600105.0
+joinville,1600154.0
+juiz de fora,1600204.0
+londrina,1600212.0
+maceió,1600238.0
+manaus,1600253.0
+mauá,1600279.0
+natal,1600303.0
+niterói,1600402.0
+nova lima,1600501.0
+patrocínio,1600535.0
+porto alegre,1600550.0
+porto seguro,1600600.0
+prado,1600709.0
+rancho queimado,1600808.0
+recife,1700251.0
+rio branco,1700301.0
+rio verde,1700350.0
+rio de janeiro,1700400.0
+salvador,1700707.0
+santana de parnaíba,1701002.0
+santo andré,1701051.0
+sete lagoas,1701101.0
+são bernardo do campo,1701309.0
+são caetano do sul,1701903.0
+são paulo,1702000.0
+uberlândia,1702109.0
+anápolis,1702158.0
+aparecida de goiânia,1702208.0
+aquiraz,1702307.0
+aracaju,1702406.0
+balneário camboriú,1702554.0
+barra mansa,1702703.0
+barueri,1702901.0
+belo horizonte,1703008.0
+belo jardim,1703057.0
+belém,1703073.0
+brasília,1703107.0
+braço do norte,1703206.0
+campinas,1703305.0
+campo bom,1703602.0
+campo grande,1703701.0
+campo largo,1703800.0
+caxias do sul,1703826.0
+cianorte,1703842.0
+coronel fabriciano,1703867.0
+cotia,1703883.0
+curitiba,1703891.0
+divinópolis,1703909.0
+feira de santana,1704105.0
+ferraz de vasconcelos,1704600.0
+florianópolis,1705102.0
+fortaleza,1705508.0
+foz do iguaçu,1705557.0
+goiânia,1705607.0
+guapimirim,1706001.0
+guarulhos,1706100.0
+ipatinga,1706258.0
+jaboatão dos guararapes,1706506.0
+jaguariúna,1707009.0
+jataí,1707108.0
+joinville,1707207.0
+joão pessoa,1707306.0
+juiz de fora,1707405.0
+londrina,1707553.0
+maceió,1707652.0
+manaus,1707702.0
+maringá,1708205.0
+natal,1708304.0
+niterói,1709005.0
+nova lima,1709302.0
+osasco,1709500.0
+palmas,1710508.0
+patrocínio,1710706.0
+porto alegre,1710904.0
+porto seguro,1711100.0
+prado,1711506.0
+propriá,1711803.0
+rancho queimado,1711902.0
+recife,1711951.0
+rio branco,1712009.0
+rio verde,1712157.0
+rio de janeiro,1712405.0
+salvador,1712454.0
+santana de parnaíba,1712504.0
+santo andré,1712702.0
+sapiranga,1712801.0
+sete lagoas,1713205.0
+sobral,1713304.0
+são bernardo do campo,1713601.0
+são caetano do sul,1713700.0
+são josé do rio preto,1713809.0
+são josé dos campos,1713957.0
+são paulo,1714203.0
+tubarão,1714302.0
+uberlândia,1714880.0
+alvorada,1715002.0
+anápolis,1715101.0
+aparecida de goiânia,1715150.0
+aquiraz,1715259.0
+aracaju,1715507.0
+bagé,1715705.0
+balneário camboriú,1715754.0
+barra mansa,1716109.0
+barueri,1716208.0
+belo horizonte,1716307.0
+belo jardim,1716505.0
+belém,1716604.0
+brasília,1716653.0
+braço do norte,1716703.0
+campinas,1717008.0
+campo bom,1717206.0
+campo grande,1717503.0
+campo largo,1717800.0
+caxias do sul,1717909.0
+cianorte,1718006.0
+coronel fabriciano,1718204.0
+cotia,1718303.0
+curitiba,1718402.0
+divinópolis,1718451.0
+erechim,1718501.0
+farroupilha,1718550.0
+feira de santana,1718709.0
+ferraz de vasconcelos,1718758.0
+florianópolis,1718840.0
+fortaleza,1718865.0
+foz do iguaçu,1718881.0
+goiânia,1718899.0
+guapimirim,1718907.0
+guarulhos,1719004.0
+ipatinga,1720002.0
+itabuna,1720101.0
+jaboatão dos guararapes,1720200.0
+jaguariúna,1720259.0
+jataí,1720309.0
+joinville,1720499.0
+joão pessoa,1720655.0
+juiz de fora,1720804.0
+linhares,1720853.0
+londrina,1720903.0
+maceió,1720937.0
+manaus,1720978.0
+maringá,1721000.0
+mauá,1721109.0
+miguel pereira,1721208.0
+natal,1721307.0
+niterói,1722081.0
+nova lima,1722107.0
+osasco,2100055.0
+palmas,2100105.0
+patrocínio,2100154.0
+porto alegre,2100204.0
+porto seguro,2100303.0
+prado,2100402.0
+propriá,2100436.0
+rancho queimado,2100477.0
+recife,2100501.0
+rio branco,2100550.0
+rio verde,2100600.0
+rio de janeiro,2100709.0
+salvador,2100808.0
+santana de parnaíba,2100832.0
+santo andré,2100873.0
+sapiranga,2100907.0
+sete lagoas,2100956.0
+sidrolândia,2101004.0
+sobral,2101103.0
+suzano,2101202.0
+são bernardo do campo,2101251.0
+são caetano do sul,2101301.0
+são josé do rio preto,2101350.0
+são josé dos campos,2101400.0
+são josé,2101509.0
+são paulo,2101608.0
+taquara,2101707.0
+taubaté,2101731.0
+teresina,2101772.0
+tubarão,2101806.0
+uberlândia,2101905.0
+vargem grande paulista,2101939.0
+vila velha,2101970.0
+vitória,2102002.0
+alvorada,2102036.0
+anápolis,2102077.0
+aparecida de goiânia,2102101.0
+aquiraz,2102150.0
+aracaju,2102200.0
+bagé,2102309.0
+balneário camboriú,2102325.0
+barra mansa,2102358.0
+barueri,2102374.0
+belo horizonte,2102408.0
+belo jardim,2102507.0
+belém,2102556.0
+bento gonçalves,2102606.0
+brasília,2102705.0
+braço do norte,2102754.0
+cachoeiro de itapemirim,2102804.0
+camaçari,2102903.0
+campinas,2103000.0
+campo bom,2103109.0
+campo grande,2103125.0
+campo largo,2103158.0
+cariacica,2103174.0
+caxias do sul,2103208.0
+chapecó,2103257.0
+cianorte,2103307.0
+coronel fabriciano,2103406.0
+cotia,2103505.0
+criciúma,2103554.0
+cuiabá,2103604.0
+curitiba,2103703.0
+divinópolis,2103802.0
+erechim,2103901.0
+farroupilha,2104008.0
+feira de santana,2104057.0
+ferraz de vasconcelos,2104073.0
+florianópolis,2104081.0
+fortaleza,2104099.0
+fortim,2104107.0
+foz do iguaçu,2104206.0
+goiânia,2104305.0
+guapimirim,2104404.0
+guarulhos,2104503.0
+guaíra,2104552.0
+hortolândia,2104602.0
+imbituba,2104628.0
+ipatinga,2104651.0
+itabuna,2104677.0
+ivoti,2104701.0
+jaboatão dos guararapes,2104800.0
+jaguariúna,2104909.0
+jaraguá do sul,2105005.0
+jataí,2105104.0
+ji-paraná,2105153.0
+joinville,2105203.0
+joão pessoa,2105302.0
+juazeiro do norte,2105351.0
+juiz de fora,2105401.0
+linhares,2105427.0
+londrina,2105450.0
+macapá,2105476.0
+maceió,2105500.0
+manaus,2105609.0
+mariana,2105658.0
+maringá,2105708.0
+mauá,2105807.0
+miguel pereira,2105906.0
+mogi das cruzes,2105922.0
+natal,2105948.0
+navegantes,2105963.0
+niterói,2105989.0
+nova lima,2106003.0
+osasco,2106102.0
+palmas,2106201.0
+parnamirim,2106300.0
+patrocínio,2106326.0
+pomerode,2106359.0
+porto alegre,2106375.0
+porto seguro,2106508.0
+poços de caldas,2106607.0
+prado,2106631.0
+propriá,2106672.0
+rancho queimado,2106706.0
+recife,2106755.0
+rio branco,2106805.0
+rio verde,2106904.0
+rio de janeiro,2107001.0
+salvador,2107100.0
+sant'ana do livramento,2107209.0
+santana de parnaíba,2107258.0
+santo andré,2107308.0
+sapiranga,2107357.0
+sete lagoas,2107407.0
+sidrolândia,2107456.0
+sobral,2107605.0
+suzano,2107704.0
+são bernardo do campo,2107803.0
+são caetano do sul,2107902.0
+são josé do rio preto,2108009.0
+são josé dos campos,2108058.0
+são josé,2108108.0
+são luís,2108207.0
+são paulo,2108256.0
+taquara,2108306.0
+taubaté,2108405.0
+teresina,2108454.0
+tubarão,2108504.0
+uberaba,2108603.0
+uberlândia,2108702.0
+vargem grande paulista,2108801.0
+vila velha,2108900.0
+vitória,2109007.0
+alvorada,2109056.0
+anápolis,2109106.0
+aparecida de goiânia,2109205.0
+aquiraz,2109239.0
+aracaju,2109270.0
+bagé,2109304.0
+balneário camboriú,2109403.0
+barra mansa,2109502.0
+barueri,2109551.0
+belo horizonte,2109601.0
+belo jardim,2109700.0
+belém,2109759.0
+bento gonçalves,2109809.0
+boa vista,2109908.0
+brasília,2110005.0
+braço do norte,2110039.0
+cachoeiro de itapemirim,2110104.0
+camaçari,2110203.0
+campinas,2110278.0
+campo bom,2110302.0
+campo grande,2110401.0
+campo largo,2110500.0
+canoas,2110609.0
+cariacica,2110658.0
+carlos barbosa,2110708.0
+caxias do sul,2110807.0
+chapecó,2110856.0
+charqueadas,2110906.0
+cianorte,2111003.0
+coronel fabriciano,2111052.0
+cotia,2111078.0
+criciúma,2111102.0
+cuiabá,2111201.0
+curitiba,2111250.0
+divinópolis,2111300.0
+dois irmãos,2111409.0
+eldorado do sul,2111508.0
+erechim,2111532.0
+estrela,2111573.0
+farroupilha,2111607.0
+feira de santana,2111631.0
+ferraz de vasconcelos,2111672.0
+florianópolis,2111706.0
+fortaleza,2111722.0
+fortim,2111748.0
+foz do iguaçu,2111763.0
+goiânia,2111789.0
+gravatal,2111805.0
+guapimirim,2111904.0
+guarulhos,2111953.0
+guaíra,2112001.0
+hortolândia,2112100.0
+imbituba,2112209.0
+ipatinga,2112233.0
+itabuna,2112308.0
+itajaí,2112407.0
+ivoti,2112456.0
+jaboatão dos guararapes,2112506.0
+jaguariúna,2112605.0
+jaguaruna,2112704.0
+jaraguá do sul,2112803.0
+jataí,2112852.0
+ji-paraná,2112902.0
+joinville,2113009.0
+joão pessoa,2114007.0
+juazeiro do norte,2200053.0
+juiz de fora,2200103.0
+lajeado,2200202.0
+linhares,2200251.0
+londrina,2200277.0
+macapá,2200301.0
+maceió,2200400.0
+manaus,2200459.0
+mariana,2200509.0
+maringá,2200608.0
+mauá,2200707.0
+miguel pereira,2200806.0
+mogi das cruzes,2200905.0
+mossoró,2200954.0
+natal,2201002.0
+navegantes,2201051.0
+niterói,2201101.0
+nossa senhora da glória,2201150.0
+nova lima,2201176.0
+osasco,2201200.0
+palmas,2201309.0
+parnamirim,2201408.0
+pato branco,2201507.0
+patrocínio,2201556.0
+petrópolis,2201572.0
+pomerode,2201606.0
+ponta grossa,2201705.0
+ponta porã,2201739.0
+porto alegre,2201770.0
+porto seguro,2201804.0
+porto velho,2201903.0
+poços de caldas,2201919.0
+prado,2201929.0
+propriá,2201945.0
+rancho queimado,2201960.0
+recife,2201988.0
+rio branco,2202000.0
+rio verde,2202026.0
+rio de janeiro,2202059.0
+salvador,2202075.0
+sant'ana do livramento,2202083.0
+santana de parnaíba,2202091.0
+santo andré,2202109.0
+sapiranga,2202117.0
+serafina corrêa,2202133.0
+sete lagoas,2202174.0
+sidrolândia,2202208.0
+sobral,2202251.0
+suzano,2202307.0
+são bernardo do campo,2202406.0
+são caetano do sul,2202455.0
+são josé do rio preto,2202505.0
+são josé dos campos,2202539.0
+são josé,2202554.0
+são leopoldo,2202604.0
+são luís,2202653.0
+são paulo,2202703.0
+taquara,2202711.0
+taubaté,2202729.0
+teresina,2202737.0
+torres,2202752.0
+tubarão,2202778.0
+uberaba,2202802.0
+uberlândia,2202851.0
+umuarama,2202901.0
+vargem grande paulista,2203008.0
+vila velha,2203107.0
+vitória,2203206.0
+alvorada,2203255.0
+anápolis,2203271.0
+aparecida de goiânia,2203305.0
+aquiraz,2203354.0
+aracaju,2203404.0
+bagé,2203420.0
+balneário camboriú,2203453.0
+barra mansa,2203503.0
+barreiras,2203602.0
+barueri,2203701.0
+belo horizonte,2203750.0
+belo jardim,2203800.0
+belém,2203859.0
+bento gonçalves,2203909.0
+blumenau,2204006.0
+boa vista,2204105.0
+brasília,2204154.0
+braço do norte,2204204.0
+cachoeiro de itapemirim,2204303.0
+camaçari,2204352.0
+campinas,2204402.0
+campo bom,2204501.0
+campo grande,2204550.0
+campo largo,2204600.0
+canoas,2204659.0
+cariacica,2204709.0
+carlos barbosa,2204808.0
+catalão,2204907.0
+caxias do sul,2205003.0
+chapecó,2205102.0
+charqueadas,2205151.0
+cianorte,2205201.0
+conceição do jacuípe,2205250.0
+coronel fabriciano,2205276.0
+cotia,2205300.0
+criciúma,2205359.0
+cuiabá,2205409.0
+curitiba,2205458.0
+divinópolis,2205508.0
+dois irmãos,2205516.0
+eldorado do sul,2205524.0
+erechim,2205532.0
+estrela,2205540.0
+estância velha,2205557.0
+farroupilha,2205565.0
+feira de santana,2205573.0
+ferraz de vasconcelos,2205581.0
+florianópolis,2205599.0
+fortaleza,2205607.0
+fortim,2205706.0
+foz do iguaçu,2205805.0
+goiânia,2205854.0
+gravatal,2205904.0
+guapimirim,2205953.0
+guarulhos,2206001.0
+guaíra,2206050.0
+hortolândia,2206100.0
+imbituba,2206209.0
+ipatinga,2206308.0
+itabuna,2206357.0
+itajaí,2206407.0
+ivoti,2206506.0
+jaboatão dos guararapes,2206605.0
+jaguariúna,2206654.0
+jaguaruna,2206670.0
+jaraguá do sul,2206696.0
+jataí,2206704.0
+ji-paraná,2206720.0
+joinville,2206753.0
+joão pessoa,2206803.0
+juazeiro do norte,2206902.0
+juiz de fora,2206951.0
+lages,2207009.0
+lajeado,2207108.0
+linhares,2207207.0
+londrina,2207306.0
+macapá,2207355.0
+maceió,2207405.0
+manaus,2207504.0
+mariana,2207553.0
+maringá,2207603.0
+mauá,2207702.0
+miguel pereira,2207751.0
+mogi das cruzes,2207777.0
+mossoró,2207793.0
+natal,2207801.0
+navegantes,2207900.0
+niterói,2207934.0
+nossa senhora da glória,2207959.0
+nova lima,2208007.0
+osasco,2208106.0
+palmas,2208205.0
+parnamirim,2208304.0
+pato branco,2208403.0
+patrocínio,2208502.0
+petrópolis,2208551.0
+pomerode,2208601.0
+ponta grossa,2208650.0
+ponta porã,2208700.0
+porto alegre,2208809.0
+porto seguro,2208858.0
+porto velho,2208874.0
+poços de caldas,2208908.0
+prado,2209005.0
+propriá,2209104.0
+rancho queimado,2209153.0
+recife,2209203.0
+rio branco,2209302.0
+rio verde,2209351.0
+rio de janeiro,2209377.0
+salvador,2209401.0
+sant'ana do livramento,2209450.0
+santa maria,2209500.0
+santana de parnaíba,2209559.0
+santo andré,2209609.0
+santo antônio da patrulha,2209658.0
+sapiranga,2209708.0
+serafina corrêa,2209757.0
+sete lagoas,2209807.0
+sidrolândia,2209856.0
+sobral,2209872.0
+suzano,2209906.0
+são bernardo do campo,2209955.0
+são caetano do sul,2209971.0
+são josé do rio preto,2210003.0
+são josé dos campos,2210052.0
+são josé,2210102.0
+são leopoldo,2210201.0
+são luís,2210300.0
+são paulo,2210359.0
+taquara,2210375.0
+taubaté,2210383.0
+teresina,2210391.0
+torres,2210409.0
+tubarão,2210508.0
+uberaba,2210607.0
+uberlândia,2210623.0
+umuarama,2210631.0
+vargem grande paulista,2210656.0
+vila velha,2210706.0
+vitória,2210805.0
+alvorada,2210904.0
+anápolis,2210938.0
+aparecida de goiânia,2210953.0
+aquiraz,2210979.0
+aracaju,2211001.0
+bagé,2211100.0
+balneário camboriú,2211209.0
+barra mansa,2211308.0
+barreiras,2211357.0
+barueri,2211407.0
+belo horizonte,2211506.0
+belo jardim,2211605.0
+belém,2211704.0
+bento gonçalves,2300101.0
+betim,2300150.0
+blumenau,2300200.0
+boa vista,2300309.0
+bom despacho,2300408.0
+brasília,2300507.0
+braço do norte,2300606.0
+brumado,2300705.0
+cachoeiro de itapemirim,2300754.0
+camaçari,2300804.0
+campinas,2300903.0
+campo bom,2301000.0
+campo grande,2301109.0
+campo largo,2301208.0
+campos altos,2301257.0
+canoas,2301307.0
+capão da canoa,2301406.0
+cariacica,2301505.0
+carlos barbosa,2301604.0
+caruaru,2301703.0
+cascavel,2301802.0
+catalão,2301851.0
+caxias do sul,2301901.0
+chapecó,2301950.0
+charqueadas,2302008.0
+cianorte,2302057.0
+conceição do jacuípe,2302107.0
+contagem,2302206.0
+coronel fabriciano,2302305.0
+cotia,2302404.0
+criciúma,2302503.0
+cruzeiro do sul,2302602.0
+cuiabá,2302701.0
+curitiba,2302800.0
+divinópolis,2302909.0
+dois irmãos,2303006.0
+eldorado do sul,2303105.0
+erechim,2303204.0
+estrela,2303303.0
+estância velha,2303402.0
+farroupilha,2303501.0
+feira de santana,2303600.0
+ferraz de vasconcelos,2303659.0
+florianópolis,2303709.0
+fortaleza,2303808.0
+fortim,2303907.0
+foz do iguaçu,2303931.0
+gaspar,2303956.0
+goiânia,2304004.0
+gravatal,2304103.0
+guapimirim,2304202.0
+guarulhos,2304236.0
+guaíra,2304251.0
+hortolândia,2304269.0
+imbituba,2304285.0
+ipatinga,2304301.0
+itabuna,2304350.0
+itajaí,2304400.0
+ivoti,2304459.0
+jaboatão dos guararapes,2304509.0
+jaguariúna,2304608.0
+jaguaruna,2304657.0
+jaraguá do sul,2304707.0
+jataí,2304806.0
+jequié,2304905.0
+ji-paraná,2304954.0
+joinville,2305001.0
+joão pessoa,2305100.0
+juazeiro do norte,2305209.0
+juazeiro,2305233.0
+juiz de fora,2305266.0
+lages,2305308.0
+lagoa da prata,2305332.0
+lajeado,2305357.0
+linhares,2305407.0
+londrina,2305506.0
+macapá,2305605.0
+maceió,2305654.0
+manaus,2305704.0
+marabá,2305803.0
+mariana,2305902.0
+maringá,2306009.0
+mauá,2306108.0
+miguel pereira,2306207.0
+mogi das cruzes,2306256.0
+mossoró,2306306.0
+natal,2306405.0
+navegantes,2306504.0
+niterói,2306553.0
+nossa senhora da glória,2306603.0
+nova lima,2306702.0
+osasco,2306801.0
+osório,2306900.0
+palmas,2307007.0
+parnamirim,2307106.0
+pato branco,2307205.0
+patrocínio,2307254.0
+petrolina,2307304.0
+petrópolis,2307403.0
+pomerode,2307502.0
+ponta grossa,2307601.0
+ponta porã,2307635.0
+porto alegre,2307650.0
+porto belo,2307700.0
+porto seguro,2307809.0
+porto velho,2307908.0
+poços de caldas,2308005.0
+prado,2308104.0
+propriá,2308203.0
+rancho queimado,2308302.0
+recife,2308351.0
+rio branco,2308377.0
+rio grande,2308401.0
+rio verde,2308500.0
+rio de janeiro,2308609.0
+salvador,2308708.0
+sant'ana do livramento,2308807.0
+santa maria,2308906.0
+santa teresa,2309003.0
+santana de parnaíba,2309102.0
+santiago,2309201.0
+santo andré,2309300.0
+santo antônio da patrulha,2309409.0
+sapiranga,2309458.0
+serafina corrêa,2309508.0
+serra,2309607.0
+sete lagoas,2309706.0
+sidrolândia,2309805.0
+sobral,2309904.0
+suzano,2310001.0
+são bernardo do campo,2310100.0
+são caetano do sul,2310209.0
+são gonçalo,2310258.0
+são josé do rio preto,2310308.0
+são josé dos campos,2310407.0
+são josé,2310506.0
+são leopoldo,2310605.0
+são luís,2310704.0
+são paulo,2310803.0
+taquara,2310852.0
+taubaté,2310902.0
+teresina,2310951.0
+timóteo,2311009.0
+torres,2311108.0
+tubarão,2311207.0
+uberaba,2311231.0
+uberlândia,2311264.0
+umuarama,2311306.0
+vargem grande paulista,2311355.0
+viamão,2311405.0
+vila velha,2311504.0
+vitória,2311603.0
+várzea grande,2311702.0
+alvorada,2311801.0
+anta gorda,2311900.0
+anápolis,2311959.0
+aparecida de goiânia,2312007.0
+aquiraz,2312106.0
+aracaju,2312205.0
+bagé,2312304.0
+balneário camboriú,2312403.0
+barra mansa,2312502.0
+barreiras,2312601.0
+barueri,2312700.0
+belo horizonte,2312809.0
+belo jardim,2312908.0
+belém,2313005.0
+bento gonçalves,2313104.0
+betim,2313203.0
+blumenau,2313252.0
+boa vista,2313302.0
+bom despacho,2313351.0
+bonfim,2313401.0
+brasília,2313500.0
+braço do norte,2313559.0
+brumado,2313609.0
+cachoeiro de itapemirim,2313708.0
+camaquã,2313757.0
+camaçari,2313807.0
+campinas,2313906.0
+campo bom,2313955.0
+campo grande,2314003.0
+campo largo,2314102.0
+campos altos,2400109.0
+campos dos goytacazes,2400208.0
+canoas,2400307.0
+capão da canoa,2400406.0
+cariacica,2400505.0
+carlos barbosa,2400604.0
+caruaru,2400703.0
+cascavel,2400802.0
+catalão,2400901.0
+caxias do sul,2401008.0
+chapecó,2401107.0
+charqueadas,2401206.0
+cianorte,2401305.0
+conceição do jacuípe,2401404.0
+conde,2401453.0
+contagem,2401503.0
+coronel fabriciano,2401602.0
+cotia,2401701.0
+criciúma,2401800.0
+cruzeiro do sul,2401859.0
+cuiabá,2401909.0
+curitiba,2402006.0
+divinópolis,2402105.0
+dois irmãos,2402204.0
+duque de caxias,2402303.0
+eldorado do sul,2402402.0
+erechim,2402600.0
+estrela,2402709.0
+estância velha,2402808.0
+farroupilha,2402907.0
+feira de santana,2403004.0
+ferraz de vasconcelos,2403103.0
+florianópolis,2403202.0
+fortaleza,2403251.0
+fortim,2403301.0
+foz do iguaçu,2403400.0
+garibaldi,2403509.0
+gaspar,2403707.0
+goiânia,2403756.0
+gravatal,2403806.0
+guapimirim,2403905.0
+guarulhos,2404002.0
+guaíra,2404101.0
+hortolândia,2404200.0
+igaracy,2404309.0
+imbituba,2404408.0
+ipatinga,2404507.0
+itabuna,2404606.0
+itajaí,2404705.0
+ivoti,2404804.0
+jaboatão dos guararapes,2404853.0
+jaguariúna,2404903.0
+jaguaruna,2405009.0
+jaraguá do sul,2405108.0
+jataí,2405207.0
+jequié,2405504.0
+ji-paraná,2405603.0
+joinville,2405702.0
+joão pessoa,2405801.0
+juazeiro do norte,2405900.0
+juazeiro,2406007.0
+juiz de fora,2406106.0
+lages,2406155.0
+lagoa da prata,2406205.0
+laguna,2406304.0
+lajeado,2406502.0
+linhares,2406601.0
+londrina,2406700.0
+macapá,2406809.0
+maceió,2406908.0
+manaus,2407005.0
+marabá,2407104.0
+mariana,2407203.0
+maringá,2407252.0
+mauriti,2407302.0
+mauá,2407401.0
+miguel pereira,2407500.0
+mogi das cruzes,2407609.0
+mossoró,2407708.0
+natal,2407807.0
+navegantes,2407906.0
+niterói,2408003.0
+nossa senhora da glória,2408102.0
+nova lima,2408300.0
+osasco,2408508.0
+osório,2408607.0
+palmas,2408706.0
+paranavaí,2408805.0
+paraí,2408904.0
+parnamirim,2408953.0
+pato branco,2409100.0
+patrocínio,2409209.0
+petrolina,2409308.0
+petrópolis,2409332.0
+pomerode,2409407.0
+ponta grossa,2409506.0
+ponta porã,2409605.0
+porto alegre,2409704.0
+porto belo,2409803.0
+porto seguro,2409902.0
+porto velho,2410009.0
+poços de caldas,2410108.0
+prado,2410207.0
+propriá,2410256.0
+rancho queimado,2410306.0
+recife,2410405.0
+rio branco,2410504.0
+rio grande,2410603.0
+rio verde,2410702.0
+rio de janeiro,2410801.0
+salvador,2410900.0
+sant'ana do livramento,2411007.0
+santa maria,2411056.0
+santa teresa,2411205.0
+santana de parnaíba,2411403.0
+santiago,2411429.0
+santo andré,2411502.0
+santo antônio da patrulha,2411601.0
+sapiranga,2411700.0
+serafina corrêa,2411809.0
+serra,2411908.0
+sete lagoas,2412005.0
+sidrolândia,2412104.0
+sobral,2412203.0
+suzano,2412302.0
+são bernardo do campo,2412401.0
+são caetano do sul,2412500.0
+são gonçalo,2412559.0
+são josé do rio preto,2412609.0
+são josé dos campos,2412807.0
+são josé,2412906.0
+são leopoldo,2413003.0
+são luís,2413102.0
+são paulo,2413201.0
+taquara,2413300.0
+taubaté,2413359.0
+teixeira de freitas,2413409.0
+telêmaco borba,2413508.0
+teresina,2413557.0
+tijucas,2413607.0
+timóteo,2413805.0
+torres,2413904.0
+tubarão,2414001.0
+uberaba,2414100.0
+uberlândia,2414159.0
+umuarama,2414209.0
+valparaíso de goiás,2414308.0
+vargem grande paulista,2414407.0
+viamão,2414456.0
+vila velha,2414506.0
+vitória,2414605.0
+volta redonda,2414704.0
+várzea grande,2414753.0
+alvorada,2414803.0
+ananindeua,2414902.0
+anta gorda,2500106.0
+anápolis,2500205.0
+aparecida de goiânia,2500304.0
+aquiraz,2500403.0
+aracaju,2500502.0
+bagé,2500536.0
+balneário camboriú,2500577.0
+barra mansa,2500601.0
+barreiras,2500700.0
+barueri,2500734.0
+belo horizonte,2500775.0
+belo jardim,2500809.0
+belém,2500908.0
+bento gonçalves,2501005.0
+betim,2501104.0
+blumenau,2501153.0
+boa vista,2501203.0
+bom despacho,2501302.0
+bonfim,2501351.0
+brasília,2501401.0
+braço do norte,2501500.0
+brumado,2501534.0
+cachoeiro de itapemirim,2501575.0
+camaquã,2501609.0
+camaçari,2501708.0
+camboriú,2501807.0
+campinas,2501906.0
+campo bom,2502003.0
+campo grande,2502052.0
+campo largo,2502102.0
+campo mourão,2502151.0
+campos altos,2502300.0
+campos dos goytacazes,2502409.0
+canarana,2502508.0
+canelinha,2502607.0
+canoas,2502706.0
+capão da canoa,2502805.0
+cariacica,2502904.0
+carlos barbosa,2503001.0
+caruaru,2503100.0
+cascavel,2503209.0
+catalão,2503308.0
+caxias do sul,2503407.0
+cerro grande do sul,2503506.0
+chapecó,2503555.0
+charqueadas,2503605.0
+cianorte,2503704.0
+conceição do jacuípe,2503753.0
+conde,2503803.0
+contagem,2503902.0
+coronel fabriciano,2504009.0
+cotia,2504033.0
+criciúma,2504074.0
+cruzeiro do sul,2504108.0
+cuiabá,2504157.0
+curitiba,2504207.0
+divinópolis,2504306.0
+dois irmãos,2504355.0
+dom pedrito,2504405.0
+duque de caxias,2504504.0
+eldorado do sul,2504603.0
+embu das artes,2504702.0
+erechim,2504801.0
+estrela,2504850.0
+estância velha,2504900.0
+farroupilha,2505006.0
+faxinal,2505105.0
+feira de santana,2505204.0
+ferraz de vasconcelos,2505238.0
+florianópolis,2505279.0
+fortaleza,2505303.0
+fortim,2505352.0
+foz do iguaçu,2505402.0
+garibaldi,2505501.0
+gaspar,2505600.0
+goiânia,2505709.0
+gravatal,2505808.0
+gravataí,2505907.0
+guapimirim,2506004.0
+guarulhos,2506103.0
+guaíra,2506202.0
+hortolândia,2506251.0
+igaracy,2506301.0
+ilhéus,2506400.0
+imbituba,2506509.0
+ipatinga,2506608.0
+iracemápolis,2506707.0
+itabuna,2506806.0
+itajaí,2506905.0
+ivoti,2507002.0
+jaboatão dos guararapes,2507101.0
+jaguariúna,2507200.0
+jaguaruna,2507309.0
+jaraguá do sul,2507408.0
+jataí,2507507.0
+jequié,2507606.0
+ji-paraná,2507705.0
+joinville,2507804.0
+joão pessoa,2507903.0
+juazeiro do norte,2508000.0
+juazeiro,2508109.0
+juiz de fora,2508208.0
+jundiaí,2508307.0
+lages,2508406.0
+lagoa da prata,2508505.0
+laguna,2508554.0
+lajeado,2508703.0
+linhares,2508802.0
+londrina,2508901.0
+luziânia,2509008.0
+macapá,2509057.0
+maceió,2509107.0
+manaus,2509156.0
+marabá,2509206.0
+mariana,2509305.0
+maringá,2509339.0
+mauriti,2509370.0
+mauá,2509396.0
+miguel pereira,2509404.0
+mogi das cruzes,2509503.0
+mossoró,2509602.0
+natal,2509701.0
+navegantes,2509800.0
+niterói,2509909.0
+nossa senhora da glória,2510006.0
+nova lima,2510105.0
+nova monte verde,2510204.0
+osasco,2510303.0
+osório,2510402.0
+palmas,2510501.0
+paranavaí,2510600.0
+paraí,2510709.0
+parnamirim,2510808.0
+pato branco,2510907.0
+patrocínio,2511004.0
+pelotas,2511103.0
+petrolina,2511202.0
+petrópolis,2511301.0
+pomerode,2511400.0
+ponta grossa,2511509.0
+ponta porã,2511608.0
+porto alegre,2511707.0
+porto belo,2511806.0
+porto real do colégio,2511905.0
+porto seguro,2512002.0
+porto velho,2512036.0
+poá,2512077.0
+poços de caldas,2512101.0
+prado,2512200.0
+propriá,2512309.0
+rancho queimado,2512408.0
+recife,2512507.0
+resende,2512606.0
+ribeirão pires,2512705.0
+rio branco,2512721.0
+rio claro,2512754.0
+rio grande,2512788.0
+rio verde,2512804.0
+rio de janeiro,2512903.0
+salvador,2513000.0
+sant'ana do livramento,2513109.0
+santa maria,2513158.0
+santa teresa,2513208.0
+santana de parnaíba,2513307.0
+santiago,2513356.0
+santo andré,2513406.0
+santo antônio da patrulha,2513505.0
+sapiranga,2513604.0
+serafina corrêa,2513653.0
+serra,2513703.0
+sete lagoas,2513802.0
+sidrolândia,2513851.0
+silvânia,2513901.0
+sobral,2513927.0
+suzano,2513943.0
+são bernardo do campo,2513968.0
+são caetano do sul,2513984.0
+são domingos,2514008.0
+são gonçalo,2514107.0
+são josé do rio preto,2514206.0
+são josé dos campos,2514305.0
+são josé,2514404.0
+são leopoldo,2514453.0
+são ludgero,2514503.0
+são luís,2514552.0
+são paulo,2514602.0
+são sebastião,2514800.0
+taboão da serra,2514909.0
+taquara,2515005.0
+taubaté,2515104.0
+teixeira de freitas,2515203.0
+telêmaco borba,2515302.0
+teresina,2515401.0
+tijucas,2515500.0
+timóteo,2515609.0
+torres,2515708.0
+tubarão,2515807.0
+uberaba,2515906.0
+uberlândia,2515930.0
+umuarama,2515971.0
+valença,2516003.0
+valinhos,2516102.0
+valparaíso de goiás,2516151.0
+vargem grande paulista,2516201.0
+viamão,2516300.0
+vila velha,2516409.0
+vitória,2516508.0
+volta redonda,2516607.0
+várzea grande,2516706.0
+alagoinhas,2516805.0
+alvorada,2516904.0
+ananindeua,2517001.0
+anta gorda,2517100.0
+anápolis,2517209.0
+aparecida de goiânia,2517407.0
+aquiraz,2600054.0
+aracaju,2600104.0
+arujá,2600203.0
+bagé,2600302.0
+balneário camboriú,2600401.0
+barra mansa,2600500.0
+barreiras,2600609.0
+barueri,2600708.0
+belo horizonte,2600807.0
+belo jardim,2600906.0
+belém,2601003.0
+bento gonçalves,2601052.0
+betim,2601102.0
+blumenau,2601201.0
+boa esperança,2601300.0
+boa vista,2601409.0
+boca do acre,2601508.0
+bom despacho,2601607.0
+bonfim,2601706.0
+brasília,2601805.0
+braço do norte,2601904.0
+brumado,2602001.0
+cachoeiro de itapemirim,2602100.0
+camaquã,2602209.0
+camaçari,2602308.0
+camboriú,2602407.0
+campinas,2602506.0
+campo bom,2602605.0
+campo grande,2602704.0
+campo largo,2602803.0
+campo mourão,2602902.0
+campos altos,2603009.0
+campos dos goytacazes,2603108.0
+canarana,2603207.0
+canelinha,2603306.0
+canoas,2603405.0
+capão da canoa,2603454.0
+cariacica,2603504.0
+carlos barbosa,2603603.0
+caruaru,2603702.0
+cascavel,2603801.0
+castanhal,2603900.0
+castelo,2603926.0
+catalão,2604007.0
+caxias do sul,2604106.0
+cerro grande do sul,2604155.0
+chapecó,2604205.0
+charqueadas,2604304.0
+cianorte,2604403.0
+conceição do jacuípe,2604502.0
+conde,2604601.0
+contagem,2604700.0
+coronel fabriciano,2604809.0
+cotia,2604908.0
+criciúma,2605004.0
+cruzeiro do sul,2605103.0
+cuiabá,2605152.0
+curitiba,2605202.0
+divinópolis,2605301.0
+dois irmãos,2605400.0
+dom pedrito,2605509.0
+duque de caxias,2605608.0
+eldorado do sul,2605707.0
+embu das artes,2605806.0
+erechim,2605905.0
+estrela,2606002.0
+estância velha,2606101.0
+farroupilha,2606200.0
+faxinal,2606309.0
+feira de santana,2606408.0
+ferraz de vasconcelos,2606507.0
+florianópolis,2606606.0
+fortaleza,2606705.0
+fortim,2606804.0
+foz do iguaçu,2606903.0
+garibaldi,2607000.0
+gaspar,2607109.0
+goiânia,2607208.0
+governador valadares,2607307.0
+gravatal,2607406.0
+gravataí,2607505.0
+guapimirim,2607653.0
+guarulhos,2607703.0
+guaíra,2607802.0
+hortolândia,2607901.0
+igaracy,2607950.0
+ilhéus,2608008.0
+imbituba,2608057.0
+ipatinga,2608107.0
+iracemápolis,2608206.0
+itabuna,2608255.0
+itaituba,2608305.0
+itajaí,2608404.0
+itapema,2608453.0
+ivoti,2608503.0
+jaboatão dos guararapes,2608602.0
+jaguariúna,2608701.0
+jaguaruna,2608750.0
+jaraguá do sul,2608800.0
+jataí,2608909.0
+jequié,2609006.0
+ji-paraná,2609105.0
+joinville,2609154.0
+joão pessoa,2609204.0
+juazeiro do norte,2609303.0
+juazeiro,2609402.0
+juiz de fora,2609501.0
+jundiaí,2609709.0
+lages,2609808.0
+lagoa da prata,2609907.0
+laguna,2610004.0
+lajeado,2610103.0
+linhares,2610202.0
+londrina,2610301.0
+louveira,2610400.0
+luziânia,2610509.0
+macapá,2610608.0
+maceió,2610707.0
+mairiporã,2610806.0
+manaus,2610905.0
+marabá,2611002.0
+marau,2611101.0
+mariana,2611200.0
+maringá,2611309.0
+mauriti,2611408.0
+mauá,2611507.0
+miguel pereira,2611533.0
+mogi das cruzes,2611606.0
+mossoró,2611705.0
+natal,2611804.0
+navegantes,2611903.0
+niterói,2612000.0
+nossa senhora da glória,2612109.0
+nova lima,2612208.0
+nova monte verde,2612307.0
+nova palma,2612406.0
+osasco,2612455.0
+osório,2612471.0
+palmas,2612505.0
+paranavaí,2612554.0
+paraí,2612604.0
+parnamirim,2612703.0
+passo fundo,2612802.0
+pato branco,2612901.0
+patrocínio,2613008.0
+pelotas,2613107.0
+petrolina,2613206.0
+petrópolis,2613305.0
+piratini,2613404.0
+pomerode,2613503.0
+ponta grossa,2613602.0
+ponta porã,2613701.0
+porto alegre,2613800.0
+porto belo,2613909.0
+porto real do colégio,2614006.0
+porto seguro,2614105.0
+porto velho,2614204.0
+poá,2614303.0
+poços de caldas,2614402.0
+prado,2614501.0
+propriá,2614600.0
+rancho queimado,2614709.0
+recife,2614808.0
+resende,2614857.0
+ribeirão pires,2615003.0
+ribeirão preto,2615102.0
+rio branco,2615201.0
+rio claro,2615300.0
+rio grande,2615409.0
+rio verde,2615508.0
+rio de janeiro,2615607.0
+rolante,2615706.0
+salvador,2615805.0
+sant'ana do livramento,2615904.0
+santa maria,2616001.0
+santa teresa,2616100.0
+santana de parnaíba,2616183.0
+santiago,2616209.0
+santo andré,2616308.0
+santo antônio da patrulha,2616407.0
+sapiranga,2616506.0
+serafina corrêa,2700102.0
+serra,2700201.0
+sete lagoas,2700300.0
+siderópolis,2700409.0
+sidrolândia,2700508.0
+silvânia,2700607.0
+sobral,2700706.0
+suzano,2700805.0
+são bernardo do campo,2700904.0
+são caetano do sul,2701001.0
+são domingos,2701100.0
+são gonçalo,2701209.0
+são josé do rio preto,2701308.0
+são josé dos campos,2701357.0
+são josé,2701407.0
+são joão del rei,2701506.0
+são leopoldo,2701605.0
+são ludgero,2701704.0
+são luís,2701803.0
+são paulo,2701902.0
+são sebastião,2702009.0
+taboão da serra,2702108.0
+taquara,2702207.0
+tatuí,2702306.0
+taubaté,2702355.0
+teixeira de freitas,2702405.0
+telêmaco borba,2702504.0
+teresina,2702553.0
+tijucas,2702603.0
+timbé do sul,2702702.0
+timóteo,2702801.0
+torres,2702900.0
+tubarão,2703007.0
+uberaba,2703106.0
+uberlândia,2703205.0
+umuarama,2703304.0
+valença,2703403.0
+valinhos,2703502.0
+valparaíso de goiás,2703601.0
+vargem grande paulista,2703700.0
+viamão,2703759.0
+vila velha,2703809.0
+vitória,2703908.0
+volta redonda,2704005.0
+várzea grande,2704104.0
+alagoinhas,2704203.0
+alvorada,2704302.0
+ananindeua,2704401.0
+anta gorda,2704500.0
+anápolis,2704609.0
+aparecida de goiânia,2704708.0
+aquiraz,2704807.0
+aracaju,2704906.0
+araguaína,2705002.0
+arujá,2705101.0
+bagé,2705200.0
+balneário camboriú,2705309.0
+barra mansa,2705408.0
+barreiras,2705507.0
+barueri,2705606.0
+batayporã,2705705.0
+belo horizonte,2705804.0
+belo jardim,2705903.0
+belém,2706000.0
+bento gonçalves,2706109.0
+betim,2706208.0
+blumenau,2706307.0
+boa esperança,2706406.0
+boa vista,2706422.0
+boca do acre,2706448.0
+bom despacho,2706505.0
+bonfim,2706604.0
+brasília,2706703.0
+braço do norte,2706802.0
+brumado,2706901.0
+cachoeira do sul,2707008.0
+cachoeiro de itapemirim,2707107.0
+camaquã,2707206.0
+camaragibe,2707305.0
+camaçari,2707404.0
+camboriú,2707503.0
+campina grande,2707602.0
+campinas,2707701.0
+campo belo,2707800.0
+campo bom,2708006.0
+campo grande,2708105.0
+campo largo,2708204.0
+campo mourão,2708303.0
+campos altos,2708402.0
+campos dos goytacazes,2708501.0
+canarana,2708600.0
+canelinha,2708709.0
+canoas,2708808.0
+capão da canoa,2708907.0
+cariacica,2708956.0
+carlos barbosa,2709004.0
+carmo do cajuru,2709103.0
+caruaru,2709152.0
+cascavel,2709202.0
+castanhal,2709301.0
+castelo,2709400.0
+catalão,2800100.0
+caxias do sul,2800209.0
+cerro grande do sul,2800308.0
+chapecó,2800407.0
+charqueadas,2800506.0
+cianorte,2800670.0
+conceição do jacuípe,2800704.0
+conde,2801009.0
+contagem,2801108.0
+coronel fabriciano,2801207.0
+cotia,2801306.0
+criciúma,2801405.0
+cruzeiro do sul,2801504.0
+cuiabá,2801603.0
+curitiba,2801702.0
+diadema,2801900.0
+divinópolis,2802007.0
+dois irmãos,2802106.0
+dom pedrito,2802205.0
+duque de caxias,2802304.0
+eldorado do sul,2802403.0
+embu das artes,2802502.0
+estrela,2802700.0
+estância velha,2802809.0
+farroupilha,2802908.0
+faxinal,2803005.0
+feira de santana,2803104.0
+ferraz de vasconcelos,2803203.0
+florianópolis,2803302.0
+fortaleza,2803401.0
+fortim,2803500.0
+foz do iguaçu,2803609.0
+garibaldi,2803708.0
+gaspar,2803807.0
+goiana,2803906.0
+goiânia,2804003.0
+governador valadares,2804102.0
+gravatal,2804201.0
+gravataí,2804300.0
+guapimirim,2804409.0
+guarapuava,2804458.0
+guarulhos,2804508.0
+guaíra,2804607.0
+guimarânia,2804706.0
+hidrolândia,2804805.0
+hortolândia,2804904.0
+igaracy,2805000.0
+ilhéus,2805109.0
+imbituba,2805208.0
+ipatinga,2805307.0
+ipiaú,2805406.0
+iracemápolis,2805505.0
+iretama,2805604.0
+itaboraí,2805703.0
+itabuna,2805802.0
+itaituba,2805901.0
+itajaí,2806008.0
+itapema,2806107.0
+ivoti,2806206.0
+jaboatão dos guararapes,2806305.0
+jaguariúna,2806404.0
+jaguaruna,2806503.0
+jaraguá do sul,2806602.0
+jataí,2806701.0
+jequié,2806800.0
+ji-paraná,2806909.0
+joinville,2807006.0
+joão pessoa,2807105.0
+juazeiro do norte,2807204.0
+juazeiro,2807303.0
+juiz de fora,2807402.0
+jundiaí,2807501.0
+lages,2807600.0
+lagoa da prata,2900108.0
+laguna,2900207.0
+lajeado,2900306.0
+linhares,2900355.0
+londrina,2900405.0
+louveira,2900504.0
+luziânia,2900603.0
+macapá,2900702.0
+maceió,2900801.0
+mairiporã,2900900.0
+manacapuru,2901007.0
+manaus,2901106.0
+marabá,2901155.0
+maranguape,2901205.0
+marau,2901304.0
+mariana,2901353.0
+maringá,2901403.0
+mauriti,2901502.0
+mauá,2901601.0
+miguel pereira,2901700.0
+mogi das cruzes,2901809.0
+mossoró,2901908.0
+natal,2901957.0
+navegantes,2902005.0
+niterói,2902054.0
+nossa senhora da glória,2902104.0
+nova lima,2902203.0
+nova monte verde,2902252.0
+nova palma,2902302.0
+osasco,2902500.0
+osório,2902609.0
+palmas,2902658.0
+paranavaí,2902708.0
+paraí,2902807.0
+parnamirim,2902906.0
+passo fundo,2903003.0
+pato branco,2903102.0
+patrocínio,2903201.0
+pelotas,2903235.0
+petrolina,2903276.0
+petrópolis,2903300.0
+piratini,2903409.0
+pomerode,2903508.0
+ponta grossa,2903607.0
+ponta porã,2903706.0
+porto alegre,2903805.0
+porto belo,2903904.0
+porto real do colégio,2903953.0
+porto seguro,2904001.0
+porto velho,2904050.0
+poá,2904100.0
+poços de caldas,2904209.0
+prado,2904308.0
+propriá,2904407.0
+rancho queimado,2904506.0
+recife,2904605.0
+resende,2904704.0
+ribeirão pires,2904753.0
+ribeirão preto,2904803.0
+rio branco,2904852.0
+rio claro,2904902.0
+rio grande,2905008.0
+rio negro,2905107.0
+rio verde de mato grosso,2905156.0
+rio verde,2905206.0
+rio de janeiro,2905305.0
+rolante,2905404.0
+sabará,2905503.0
+salvador,2905602.0
+sant'ana do livramento,2905701.0
+santa maria,2905800.0
+santa rosa,2905909.0
+santa teresa,2906006.0
+santana de parnaíba,2906105.0
+santiago,2906204.0
+santo andré,2906303.0
+santo antônio da patrulha,2906402.0
+sapiranga,2906501.0
+serafina corrêa,2906600.0
+serra,2906709.0
+sete lagoas,2906808.0
+siderópolis,2906824.0
+sidrolândia,2906857.0
+silvânia,2906873.0
+sobral,2906899.0
+sorocaba,2906907.0
+sousa,2907004.0
+suzano,2907103.0
+são bernardo do campo,2907202.0
+são caetano do sul,2907301.0
+são domingos,2907400.0
+são gonçalo,2907509.0
+são josé do divino,2907558.0
+são josé do rio preto,2907608.0
+são josé dos campos,2907707.0
+são josé,2907806.0
+são joão del rei,2907905.0
+são leopoldo,2908002.0
+são lourenço do oeste,2908101.0
+são ludgero,2908200.0
+são luís,2908309.0
+são paulo,2908408.0
+são roque do canaã,2908507.0
+são sebastião,2908606.0
+taboão da serra,2908705.0
+taquara,2908804.0
+tatuí,2908903.0
+taubaté,2909000.0
+teixeira de freitas,2909109.0
+telêmaco borba,2909208.0
+teresina,2909307.0
+tijucas,2909406.0
+timbé do sul,2909505.0
+timóteo,2909604.0
+torres,2909703.0
+tubarão,2909802.0
+uberaba,2909901.0
+uberlândia,2910008.0
+umuarama,2910057.0
+união da vitória,2910107.0
+valença,2910206.0
+valinhos,2910305.0
+valparaíso de goiás,2910404.0
+vargem grande paulista,2910503.0
+viamão,2910602.0
+vila velha,2910701.0
+vitória,2910727.0
+volta redonda,2910750.0
+várzea grande,2910776.0
+alagoinhas,2910800.0
+alvorada,2910859.0
+ananindeua,2910909.0
+anta gorda,2911006.0
+anápolis,2911105.0
+aparecida de goiânia,2911204.0
+aquiraz,2911253.0
+aracaju,2911303.0
+araguaína,2911402.0
+arujá,2911501.0
+açu,2911600.0
+bagé,2911659.0
+balneário camboriú,2911709.0
+barra mansa,2911808.0
+barreiras,2911857.0
+barueri,2911907.0
+batayporã,2912004.0
+belo horizonte,2912103.0
+belo jardim,2912202.0
+belém,2912301.0
+bento gonçalves,2912400.0
+betim,2912509.0
+blumenau,2912608.0
+boa esperança,2912707.0
+boa vista,2912806.0
+boca do acre,2912905.0
+bom despacho,2913002.0
+bonfim,2913101.0
+brasília,2913200.0
+braço do norte,2913309.0
+brumado,2913408.0
+brusque,2913457.0
+cachoeira do sul,2913507.0
+cachoeiro de itapemirim,2913606.0
+caicó,2913705.0
+camaquã,2913804.0
+camaragibe,2913903.0
+camaçari,2914000.0
+camboriú,2914109.0
+campina grande,2914208.0
+campinas,2914307.0
+campo belo,2914406.0
+campo bom,2914505.0
+campo grande,2914604.0
+campo largo,2914653.0
+campo mourão,2914703.0
+campos altos,2914802.0
+campos dos goytacazes,2914901.0
+canarana,2915007.0
+canelinha,2915106.0
+canguçu,2915205.0
+canoas,2915304.0
+capão da canoa,2915353.0
+cariacica,2915403.0
+carlos barbosa,2915502.0
+carmo do cajuru,2915601.0
+caruaru,2915700.0
+cascavel,2915809.0
+castanhal,2915908.0
+castelo,2916005.0
+catalão,2916104.0
+caucaia,2916203.0
+caxias do sul,2916302.0
+cerro grande do sul,2916401.0
+chapecó,2916500.0
+charqueadas,2916609.0
+cianorte,2916708.0
+conceição do jacuípe,2916807.0
+conde,2916856.0
+contagem,2916906.0
+coronel fabriciano,2917003.0
+cotia,2917102.0
+criciúma,2917201.0
+cruzeiro do sul,2917300.0
+cuiabá,2917334.0
+curitiba,2917359.0
+diadema,2917409.0
+divinópolis,2917508.0
+dois irmãos,2917607.0
+dom pedrito,2917706.0
+dourados,2917805.0
+duque de caxias,2917904.0
+eldorado do sul,2918001.0
+embu das artes,2918100.0
+erechim,2918209.0
+estrela,2918308.0
+estância velha,2918357.0
+farroupilha,2918407.0
+faxinal,2918456.0
+feira de santana,2918506.0
+ferraz de vasconcelos,2918555.0
+florianópolis,2918605.0
+fortaleza,2918704.0
+fortim,2918753.0
+foz do iguaçu,2918803.0
+garibaldi,2918902.0
+gaspar,2919009.0
+goiana,2919058.0
+goianésia,2919108.0
+goiânia,2919157.0
+governador valadares,2919306.0
+gravatal,2919405.0
+gravataí,2919504.0
+guapimirim,2919553.0
+guarapari,2919603.0
+guarapuava,2919702.0
+guarulhos,2919801.0
+guaíra,2919900.0
+guimarânia,2919926.0
+hidrolândia,2919959.0
+hortolândia,2920007.0
+igaracy,2920106.0
+ilhéus,2920205.0
+imbituba,2920304.0
+ipatinga,2920403.0
+ipiaú,2920452.0
+iracemápolis,2920502.0
+iretama,2920601.0
+itaboraí,2920700.0
+itabuna,2920809.0
+itagibá,2920908.0
+itaituba,2921005.0
+itajaí,2921054.0
+itapema,2921104.0
+itapemirim,2921203.0
+ivoti,2921302.0
+jaboatão dos guararapes,2921401.0
+jaguariúna,2921450.0
+jaguaruna,2921500.0
+jaraguá do sul,2921609.0
+jataí,2921708.0
+jequié,2921807.0
+ji-paraná,2921906.0
+joinville,2922003.0
+joão pessoa,2922052.0
+juazeiro do norte,2922102.0
+juazeiro,2922201.0
+juiz de fora,2922250.0
+jundiaí,2922300.0
+lages,2922409.0
+lagoa da prata,2922508.0
+laguna,2922607.0
+lajeado,2922656.0
+linhares,2922706.0
+londrina,2922730.0
+louveira,2922755.0
+luziânia,2922805.0
+macapá,2922854.0
+macaíba,2922904.0
+maceió,2923001.0
+mairiporã,2923035.0
+manacapuru,2923050.0
+manaus,2923100.0
+mangaratiba,2923209.0
+marabá,2923308.0
+maranguape,2923357.0
+marau,2923407.0
+mariana,2923506.0
+maringá,2923605.0
+mariópolis,2923704.0
+mauriti,2923803.0
+mauá,2923902.0
+miguel pereira,2924009.0
+mogi das cruzes,2924058.0
+monte alegre,2924108.0
+mossoró,2924207.0
+natal,2924306.0
+navegantes,2924405.0
+niterói,2924504.0
+nossa senhora da glória,2924603.0
+nova iguaçu,2924652.0
+nova lima,2924678.0
+nova monte verde,2924702.0
+nova palma,2924801.0
+osasco,2924900.0
+osório,2925006.0
+palmas,2925105.0
+papanduva,2925204.0
+paranavaí,2925253.0
+parauapebas,2925303.0
+paraí,2925402.0
+parnamirim,2925501.0
+parnaíba,2925600.0
+passa e fica,2925709.0
+passo fundo,2925758.0
+pato branco,2925808.0
+patrocínio,2925907.0
+pelotas,2925931.0
+petrolina,2925956.0
+petrópolis,2926004.0
+piratini,2926103.0
+pomerode,2926202.0
+ponta grossa,2926301.0
+ponta porã,2926400.0
+porto alegre,2926509.0
+porto belo,2926608.0
+porto real do colégio,2926657.0
+porto seguro,2926707.0
+porto velho,2926806.0
+poá,2926905.0
+poços de caldas,2927002.0
+prado,2927101.0
+propriá,2927200.0
+quatiguá,2927309.0
+quixadá,2927408.0
+rancho queimado,2927507.0
+recife,2927606.0
+resende,2927705.0
+ribeirão pires,2927804.0
+ribeirão preto,2927903.0
+rio branco,2928000.0
+rio claro,2928059.0
+rio grande,2928109.0
+rio negro,2928208.0
+rio verde de mato grosso,2928307.0
+rio verde,2928406.0
+rio de janeiro,2928505.0
+rolante,2928604.0
+sabará,2928703.0
+salvador,2928802.0
+sant'ana do livramento,2928901.0
+santa maria,2928950.0
+santa rosa,2929008.0
+santa teresa,2929057.0
+santana de parnaíba,2929107.0
+santiago,2929206.0
+santo andré,2929255.0
+santo antônio da patrulha,2929305.0
+sapiranga,2929354.0
+serafina corrêa,2929370.0
+serra,2929404.0
+sete lagoas,2929503.0
+siderópolis,2929602.0
+sidrolândia,2929701.0
+silvânia,2929750.0
+sobral,2929800.0
+sorocaba,2929909.0
+sousa,2930006.0
+suzano,2930105.0
+são bernardo do campo,2930154.0
+são caetano do sul,2930204.0
+são domingos,2930303.0
+são francisco do sul,2930402.0
+são gonçalo do amarante,2930501.0
+são gonçalo,2930600.0
+são josé de mipibu,2930709.0
+são josé do divino,2930758.0
+são josé do rio preto,2930766.0
+são josé dos campos,2930774.0
+são josé,2930808.0
+são joão del rei,2930907.0
+são leopoldo,2931004.0
+são lourenço da mata,2931053.0
+são lourenço do oeste,2931103.0
+são ludgero,2931202.0
+são luís,2931301.0
+são paulo,2931350.0
+são roque do canaã,2931400.0
+são sebastião,2931509.0
+taboão da serra,2931608.0
+taquara,2931707.0
+tatuí,2931806.0
+taubaté,2931905.0
+teixeira de freitas,2932002.0
+telêmaco borba,2932101.0
+teresina,2932200.0
+tibau,2932309.0
+tijucas,2932408.0
+timbé do sul,2932457.0
+timóteo,2932507.0
+torres,2932606.0
+tubarão,2932705.0
+uberaba,2932804.0
+uberlândia,2932903.0
+umuarama,2933000.0
+união da vitória,2933059.0
+urussanga,2933109.0
+valença,2933158.0
+valinhos,2933174.0
+valparaíso de goiás,2933257.0
+vargem grande paulista,2933307.0
+viamão,2933406.0
+vila velha,2933455.0
+vitória,2933505.0
+volta redonda,2933604.0
+várzea grande,3100104.0
+águas lindas de goiás,3100203.0
+acrelândia,3100302.0
+alagoinhas,3100401.0
+alvorada,3100500.0
+ananindeua,3100609.0
+anta gorda,3100708.0
+anápolis,3100807.0
+aparecida de goiânia,3100906.0
+aquiraz,3101003.0
+aracaju,3101102.0
+araguaína,3101201.0
+arujá,3101300.0
+açu,3101508.0
+bagé,3101607.0
+balneário camboriú,3101631.0
+barra mansa,3101706.0
+barreiras,3101805.0
+barueri,3101904.0
+batayporã,3102001.0
+belo horizonte,3102050.0
+belo jardim,3102100.0
+belém,3102209.0
+bento gonçalves,3102308.0
+betim,3102407.0
+blumenau,3102506.0
+boa esperança,3102605.0
+boa vista,3102803.0
+boca do acre,3102852.0
+bom despacho,3102902.0
+bonfim,3103009.0
+brasília,3103108.0
+braço do norte,3103207.0
+brumado,3103306.0
+brusque,3103405.0
+cachoeira do sul,3103504.0
+cachoeiro de itapemirim,3103603.0
+caicó,3103702.0
+camaquã,3103751.0
+camaragibe,3103801.0
+camaçari,3103900.0
+camboriú,3104007.0
+campina grande,3104106.0
+campinas,3104205.0
+campo belo,3104304.0
+campo bom,3104403.0
+campo grande,3104452.0
+campo largo,3104502.0
+campo mourão,3104601.0
+campos altos,3104700.0
+campos dos goytacazes,3104809.0
+canarana,3104908.0
+canelinha,3105004.0
+canguçu,3105103.0
+canoas,3105202.0
+capão da canoa,3105301.0
+cariacica,3105400.0
+carlos barbosa,3105509.0
+carmo do cajuru,3105608.0
+caruaru,3105707.0
+cascavel,3105905.0
+castanhal,3106002.0
+castelo,3106101.0
+castro,3106200.0
+catalão,3106309.0
+caucaia,3106408.0
+caxias do sul,3106507.0
+cerro grande do sul,3106606.0
+chapecó,3106655.0
+charqueadas,3106705.0
+cianorte,3106804.0
+conceição do jacuípe,3106903.0
+conde,3107000.0
+contagem,3107109.0
+contenda,3107307.0
+coronel fabriciano,3107406.0
+cotia,3107505.0
+criciúma,3107604.0
+cruzeiro do sul,3107703.0
+cuiabá,3107802.0
+curitiba,3107901.0
+diadema,3108008.0
+divinópolis,3108107.0
+dois irmãos,3108206.0
+dom pedrito,3108255.0
+dourados,3108305.0
+duque de caxias,3108404.0
+eldorado do sul,3108503.0
+embu das artes,3108552.0
+erechim,3108602.0
+estrela,3108701.0
+estância velha,3108800.0
+extrema,3108909.0
+farroupilha,3109006.0
+faxinal,3109105.0
+feira de santana,3109204.0
+ferraz de vasconcelos,3109253.0
+florianópolis,3109303.0
+fortaleza,3109402.0
+fortim,3109451.0
+foz do iguaçu,3109501.0
+garibaldi,3109600.0
+gaspar,3109709.0
+goiana,3109808.0
+goianésia,3109907.0
+goiânia,3110004.0
+governador valadares,3110103.0
+gravatal,3110202.0
+gravataí,3110301.0
+guapimirim,3110400.0
+guarapari,3110509.0
+guarapuava,3110608.0
+guarulhos,3110707.0
+guaíra,3110806.0
+guimarânia,3110905.0
+hidrolândia,3111002.0
+hortolândia,3111101.0
+igaracy,3111200.0
+ilhéus,3111309.0
+imbituba,3111408.0
+indaial,3111507.0
+ipatinga,3111606.0
+ipiaú,3111705.0
+iracemápolis,3111804.0
+iretama,3111903.0
+itaboraí,3112000.0
+itabuna,3112059.0
+itacoatiara,3112109.0
+itagibá,3112208.0
+itaitinga,3112307.0
+itaituba,3112406.0
+itajaí,3112505.0
+itamaraju,3112604.0
+itapema,3112653.0
+itapemirim,3112703.0
+itororó,3112802.0
+ivoti,3112901.0
+jaboatão dos guararapes,3113008.0
+jaguariúna,3113107.0
+jaguaruna,3113206.0
+jaraguá do sul,3113305.0
+jataí,3113404.0
+jequié,3113503.0
+ji-paraná,3113602.0
+joinville,3113701.0
+joão pessoa,3113800.0
+juazeiro do norte,3113909.0
+juazeiro,3114006.0
+juiz de fora,3114105.0
+jundiaí,3114204.0
+lages,3114303.0
+lagoa da prata,3114402.0
+laguna,3114501.0
+lajeado,3114550.0
+linhares,3114600.0
+londrina,3114709.0
+louveira,3114808.0
+luziânia,3114907.0
+macapá,3115003.0
+macaíba,3115102.0
+maceió,3115201.0
+mairiporã,3115300.0
+manacapuru,3115359.0
+manaus,3115409.0
+mangaratiba,3115458.0
+marabá,3115474.0
+maracanaú,3115508.0
+maranguape,3115706.0
+marau,3115805.0
+marechal cândido rondon,3115904.0
+mariana,3116001.0
+maringá,3116100.0
+mariópolis,3116159.0
+mauriti,3116209.0
+mauá,3116308.0
+medianeira,3116407.0
+miguel pereira,3116506.0
+mogi das cruzes,3116605.0
+monte alegre,3116704.0
+mossoró,3116803.0
+muriaé,3116902.0
+natal,3117009.0
+navegantes,3117108.0
+niterói,3117207.0
+nossa senhora da glória,3117306.0
+nova iguaçu,3117405.0
+nova lima,3117504.0
+nova monte verde,3117603.0
+nova palma,3117702.0
+novo hamburgo,3117801.0
+osasco,3117836.0
+osório,3117876.0
+palmas,3117900.0
+papanduva,3118007.0
+paranavaí,3118106.0
+parauapebas,3118205.0
+paraí,3118304.0
+parnamirim,3118403.0
+parnaíba,3118502.0
+passa e fica,3118601.0
+passo fundo,3118700.0
+pato branco,3118809.0
+patrocínio,3118908.0
+peabiru,3119005.0
+pelotas,3119104.0
+petrolina,3119203.0
+petrópolis,3119302.0
+piratini,3119401.0
+pojuca,3119500.0
+pomerode,3119609.0
+ponta grossa,3119708.0
+ponta porã,3119807.0
+porto acre,3119906.0
+porto alegre,3119955.0
+porto belo,3120003.0
+porto real do colégio,3120102.0
+porto seguro,3120151.0
+porto velho,3120201.0
+poá,3120300.0
+poços de caldas,3120409.0
+prado,3120508.0
+propriá,3120607.0
+quatiguá,3120706.0
+quixadá,3120805.0
+rancho queimado,3120839.0
+recife,3120870.0
+resende,3120904.0
+ribeirão pires,3121001.0
+ribeirão preto,3121100.0
+rio branco,3121209.0
+rio claro,3121258.0
+rio grande,3121308.0
+rio negro,3121407.0
+rio verde de mato grosso,3121506.0
+rio verde,3121605.0
+rio das ostras,3121803.0
+rio de janeiro,3121902.0
+rolante,3122009.0
+sabará,3122108.0
+salvador,3122207.0
+sant'ana do livramento,3122306.0
+santa luzia,3122355.0
+santa maria,3122405.0
+santa rosa,3122454.0
+santa teresa,3122504.0
+santana de parnaíba,3122603.0
+santiago,3122702.0
+santo andré,3122801.0
+sapiranga,3123007.0
+serafina corrêa,3123106.0
+seropédica,3123205.0
+serra do salitre,3123304.0
+serra,3123403.0
+sete lagoas,3123528.0
+siderópolis,3123601.0
+sidrolândia,3123700.0
+silvânia,3123809.0
+sobral,3123858.0
+sorocaba,3123908.0
+sousa,3124005.0
+suzano,3124104.0
+são bernardo do campo,3124203.0
+são caetano do sul,3124302.0
+são domingos,3124401.0
+são francisco do sul,3124500.0
+são gonçalo do amarante,3124609.0
+são gonçalo,3124807.0
+são josé de mipibu,3124906.0
+são josé do divino,3125002.0
+são josé do rio preto,3125101.0
+são josé dos campos,3125200.0
+são josé dos pinhais,3125309.0
+são josé,3125408.0
+são joão del rei,3125507.0
+são leopoldo,3125606.0
+são lourenço da mata,3125705.0
+são lourenço do oeste,3125804.0
+são ludgero,3125903.0
+são luís,3125952.0
+são mateus,3126000.0
+são paulo,3126109.0
+são roque do canaã,3126208.0
+são sebastião,3126307.0
+taboão da serra,3126406.0
+taquara,3126505.0
+tatuí,3126604.0
+taubaté,3126703.0
+teixeira de freitas,3126752.0
+telêmaco borba,3126802.0
+teresina,3126901.0
+terra rica,3127008.0
+tibau,3127057.0
+tijucas,3127073.0
+timbé do sul,3127107.0
+timóteo,3127206.0
+torres,3127305.0
+tubarão,3127339.0
+uberaba,3127354.0
+uberlândia,3127370.0
+umuarama,3127388.0
+união da vitória,3127404.0
+urussanga,3127503.0
+valença,3127602.0
+valinhos,3127701.0
+valparaíso de goiás,3127800.0
+vargem grande paulista,3127909.0
+viamão,3128006.0
+vila velha,3128105.0
+vitória,3128204.0
+volta redonda,3128253.0
+várzea grande,3128303.0
+águas lindas de goiás,3128402.0
+acrelândia,3128501.0
+alagoinhas,3128600.0
+alvorada,3128709.0
+ananindeua,3128808.0
+angra dos reis,3128907.0
+anta gorda,3129004.0
+anápolis,3129103.0
+aparecida de goiânia,3129202.0
+apodi,3129301.0
+aquiraz,3129400.0
+aracaju,3129509.0
+araguaína,3129608.0
+arujá,3129657.0
+açu,3129707.0
+bagé,3129806.0
+balneário camboriú,3129905.0
+barra mansa,3130002.0
+barreiras,3130051.0
+barueri,3130101.0
+batayporã,3130200.0
+beberibe,3130309.0
+belo horizonte,3130408.0
+belo jardim,3130507.0
+belém,3130556.0
+bento gonçalves,3130606.0
+betim,3130655.0
+blumenau,3130705.0
+boa esperança,3130804.0
+boa vista,3130903.0
+boca do acre,3131000.0
+bom despacho,3131109.0
+bonfim,3131158.0
+brasília,3131208.0
+braço do norte,3131307.0
+brodowski,3131406.0
+brumado,3131505.0
+brusque,3131604.0
+cachoeira do sul,3131703.0
+cachoeiro de itapemirim,3131802.0
+caicó,3131901.0
+cajamar,3132008.0
+camaquã,3132107.0
+camaragibe,3132206.0
+camaçari,3132305.0
+camboriú,3132404.0
+campina grande,3132503.0
+campinas,3132602.0
+campo belo,3132701.0
+campo bom,3132800.0
+campo grande,3132909.0
+campo largo,3133006.0
+campo mourão,3133105.0
+campos altos,3133204.0
+campos dos goytacazes,3133303.0
+canarana,3133402.0
+canelinha,3133501.0
+canguçu,3133600.0
+canoas,3133709.0
+capão da canoa,3133758.0
+cariacica,3133808.0
+carlos barbosa,3133907.0
+carmo do cajuru,3134004.0
+caruaru,3134103.0
+cascavel,3134202.0
+castanhal,3134301.0
+castelo,3134400.0
+castro,3134509.0
+catalão,3134608.0
+caucaia,3134707.0
+caxias do sul,3134806.0
+cerro grande do sul,3134905.0
+chapecó,3135001.0
+charqueadas,3135050.0
+cianorte,3135076.0
+conceição do jacuípe,3135100.0
+conde,3135209.0
+contagem,3135308.0
+contenda,3135357.0
+coronel fabriciano,3135407.0
+cotia,3135456.0
+criciúma,3135506.0
+cruzeiro do sul,3135605.0
+cuiabá,3135704.0
+curitiba,3135803.0
+diadema,3135902.0
+dias d'ávila,3136009.0
+divinópolis,3136108.0
+dois irmãos,3136207.0
+dom pedrito,3136306.0
+dourados,3136405.0
+duque de caxias,3136504.0
+eldorado do sul,3136520.0
+embu das artes,3136553.0
+erechim,3136579.0
+estrela,3136603.0
+estância velha,3136652.0
+extrema,3136702.0
+farroupilha,3136801.0
+faxinal,3136900.0
+feira de santana,3136959.0
+ferraz de vasconcelos,3137007.0
+florianópolis,3137106.0
+fortaleza,3137205.0
+fortim,3137403.0
+foz do iguaçu,3137502.0
+garibaldi,3137536.0
+gaspar,3137601.0
+goiana,3137700.0
+goianésia,3137809.0
+goiânia,3137908.0
+governador valadares,3138005.0
+gravatal,3138104.0
+gravataí,3138203.0
+guapimirim,3138302.0
+guarapari,3138351.0
+guarapuava,3138401.0
+guarulhos,3138500.0
+guaíra,3138609.0
+guimarânia,3138625.0
+hidrolândia,3138658.0
+hortolândia,3138674.0
+igaracy,3138682.0
+ilhéus,3138708.0
+imbituba,3138807.0
+indaial,3138906.0
+ipatinga,3139003.0
+ipiaú,3139102.0
+iracemápolis,3139201.0
+iretama,3139250.0
+itaboraí,3139300.0
+itabuna,3139409.0
+itacoatiara,3139508.0
+itagibá,3139607.0
+itaitinga,3139706.0
+itaituba,3139805.0
+itajaí,3139904.0
+itamaraju,3140001.0
+itapema,3140100.0
+itapemirim,3140159.0
+itapevi,3140209.0
+itororó,3140308.0
+itumbiara,3140407.0
+itupeva,3140506.0
+ivoti,3140530.0
+jaboatão dos guararapes,3140555.0
+jaguariúna,3140605.0
+jaguaruna,3140704.0
+jaraguá do sul,3140803.0
+jaru,3140852.0
+jataí,3140902.0
+jequié,3141009.0
+ji-paraná,3141108.0
+joinville,3141207.0
+joão pessoa,3141306.0
+juazeiro do norte,3141405.0
+juazeiro,3141504.0
+juiz de fora,3141603.0
+jundiaí,3141702.0
+lages,3141801.0
+lagoa da prata,3141900.0
+laguna,3142007.0
+lajeado,3142106.0
+linhares,3142205.0
+londrina,3142254.0
+louveira,3142304.0
+luziânia,3142403.0
+luís gomes,3142502.0
+macapá,3142601.0
+macaíba,3142700.0
+maceió,3142809.0
+mairiporã,3142908.0
+manacapuru,3143005.0
+manaus,3143104.0
+mangaratiba,3143153.0
+manhuaçu,3143203.0
+marabá,3143302.0
+maracanaú,3143401.0
+maranguape,3143450.0
+marau,3143500.0
+marechal cândido rondon,3143609.0
+mariana,3143708.0
+maringá,3143807.0
+mariópolis,3143906.0
+matinhos,3144003.0
+mauriti,3144102.0
+mauá,3144201.0
+medianeira,3144300.0
+miguel pereira,3144359.0
+mogi das cruzes,3144375.0
+monte alegre,3144409.0
+mossoró,3144508.0
+muriaé,3144607.0
+natal,3144656.0
+navegantes,3144672.0
+niterói,3144706.0
+nossa senhora da glória,3144805.0
+nova iguaçu,3144904.0
+nova lima,3145000.0
+nova monte verde,3145059.0
+nova palma,3145109.0
+nova soure,3145208.0
+novo airão,3145307.0
+novo hamburgo,3145356.0
+osasco,3145372.0
+osório,3145406.0
+palmares,3145455.0
+palmas,3145505.0
+papanduva,3145604.0
+paranavaí,3145703.0
+parauapebas,3145802.0
+paraí,3145851.0
+parnamirim,3145877.0
+parnaíba,3145901.0
+passa e fica,3146008.0
+passo fundo,3146107.0
+pato branco,3146206.0
+patos,3146255.0
+patrocínio,3146305.0
+paulínia,3146404.0
+peabiru,3146503.0
+pelotas,3146552.0
+penápolis,3146602.0
+pescaria brava,3146701.0
+petrolina,3146750.0
+petrópolis,3146909.0
+piracicaba,3147006.0
+piratini,3147105.0
+pojuca,3147204.0
+pomerode,3147303.0
+ponta grossa,3147402.0
+ponta porã,3147501.0
+porto acre,3147600.0
+porto alegre,3147709.0
+porto belo,3147808.0
+porto feliz,3147907.0
+porto real do colégio,3147956.0
+porto seguro,3148004.0
+porto velho,3148103.0
+poá,3148202.0
+poços de caldas,3148301.0
+prado,3148400.0
+propriá,3148509.0
+quatiguá,3148608.0
+quixadá,3148707.0
+rancho queimado,3148756.0
+recife,3148806.0
+resende,3148905.0
+ribeirão pires,3149002.0
+ribeirão preto,3149101.0
+rio bonito,3149150.0
+rio branco do sul,3149200.0
+rio branco,3149309.0
+rio claro,3149408.0
+rio grande,3149507.0
+rio negro,3149606.0
+rio verde de mato grosso,3149705.0
+rio verde,3149804.0
+rio das ostras,3149903.0
+rio de janeiro,3149952.0
+rolante,3150000.0
+rondonópolis,3150109.0
+sabará,3150158.0
+salvador,3150208.0
+sant'ana do livramento,3150307.0
+santa luzia,3150406.0
+santa maria,3150505.0
+santa teresa,3150570.0
+santana de parnaíba,3150604.0
+santiago,3150703.0
+santo andré,3150802.0
+santo antônio da patrulha,3150901.0
+santos,3151008.0
+sapiranga,3151107.0
+serafina corrêa,3151206.0
+seropédica,3151305.0
+serra do salitre,3151404.0
+serra,3151503.0
+sete lagoas,3151602.0
+siderópolis,3151701.0
+sidrolândia,3151800.0
+silvânia,3151909.0
+sobral,3152006.0
+sorocaba,3152105.0
+sousa,3152131.0
+suzano,3152170.0
+são bernardo do campo,3152204.0
+são caetano do sul,3152303.0
+são domingos,3152402.0
+são francisco do sul,3152501.0
+são gonçalo do amarante,3152600.0
+são gonçalo,3152709.0
+são josé de mipibu,3152808.0
+são josé do divino,3152907.0
+são josé do rio preto,3153004.0
+são josé dos campos,3153103.0
+são josé dos pinhais,3153202.0
+são josé,3153301.0
+são joão del rei,3153400.0
+são leopoldo,3153509.0
+são lourenço da mata,3153608.0
+são lourenço do oeste,3153707.0
+são ludgero,3153806.0
+são luís,3153905.0
+são mateus,3154002.0
+são paulo,3154101.0
+são pedro,3154150.0
+são roque do canaã,3154200.0
+são sebastião,3154309.0
+taboão da serra,3154408.0
+taquara,3154457.0
+taquari,3154507.0
+tatuí,3154705.0
+taubaté,3154804.0
+teixeira de freitas,3154903.0
+telêmaco borba,3155009.0
+teresina,3155108.0
+teresópolis,3155207.0
+terra rica,3155306.0
+tibau,3155405.0
+tijucas,3155504.0
+timbé do sul,3155603.0
+timóteo,3155702.0
+torres,3155801.0
+tubarão,3155900.0
+uberaba,3156007.0
+uberlândia,3156106.0
+umuarama,3156205.0
+unaí,3156304.0
+união da vitória,3156403.0
+urussanga,3156452.0
+valença,3156502.0
+valinhos,3156601.0
+valparaíso de goiás,3156700.0
+vargem grande paulista,3156809.0
+viamão,3156908.0
+vila velha,3157005.0
+vitória,3157104.0
+volta redonda,3157203.0
+várzea grande,3157252.0
+águas lindas de goiás,3157278.0
+abaetetuba,3157302.0
+acrelândia,3157377.0
+alagoinhas,3157401.0
+alcinópolis,3157500.0
+alfenas,3157658.0
+alto rio novo,3157708.0
+alvorada,3157807.0
+americana,3157906.0
+ananindeua,3158003.0
+angra dos reis,3158102.0
+anta gorda,3158201.0
+anápolis,3158300.0
+aparecida de goiânia,3158409.0
+apodi,3158508.0
+aquiraz,3158607.0
+aracaju,3158706.0
+araguaína,3158805.0
+araçatuba,3158904.0
+arujá,3158953.0
+açu,3159001.0
+bagé,3159100.0
+balneário camboriú,3159209.0
+barra mansa,3159308.0
+barra,3159357.0
+barreiras,3159407.0
+barueri,3159506.0
+batayporã,3159605.0
+bauru,3159704.0
+beberibe,3159803.0
+belo horizonte,3159902.0
+belo jardim,3160009.0
+belém,3160108.0
+bento gonçalves,3160207.0
+betim,3160306.0
+blumenau,3160405.0
+boa esperança,3160504.0
+boa vista,3160603.0
+boca do acre,3160702.0
+bom despacho,3160801.0
+bonfim,3160900.0
+brasília,3160959.0
+braço do norte,3161007.0
+brodowski,3161106.0
+brumado,3161205.0
+brusque,3161304.0
+cachoeira paulista,3161403.0
+cachoeira do sul,3161502.0
+cachoeirinha,3161601.0
+cachoeiro de itapemirim,3161700.0
+caicó,3161809.0
+cajamar,3161908.0
+camaquã,3162005.0
+camaragibe,3162104.0
+camaçari,3162203.0
+camboriú,3162252.0
+campina grande,3162302.0
+campinas,3162401.0
+campo belo,3162450.0
+campo bom,3162500.0
+campo grande,3162559.0
+campo largo,3162575.0
+campo mourão,3162609.0
+campos altos,3162658.0
+campos dos goytacazes,3162708.0
+canarana,3162807.0
+candeias,3162906.0
+canelinha,3162922.0
+canguçu,3162948.0
+canoas,3162955.0
+capão da canoa,3163003.0
+cariacica,3163102.0
+carlos barbosa,3163201.0
+carmo do cajuru,3163300.0
+caruaru,3163409.0
+cascavel,3163508.0
+castanhal,3163607.0
+castelo,3163706.0
+castro,3163805.0
+catalão,3163904.0
+catu,3164001.0
+caucaia,3164100.0
+caxias do sul,3164209.0
+cerro grande do sul,3164308.0
+chapecó,3164407.0
+charqueadas,3164431.0
+cianorte,3164472.0
+coaraci,3164605.0
+conceição do jacuípe,3164704.0
+conde,3164803.0
+contagem,3164902.0
+contenda,3165008.0
+coronel fabriciano,3165107.0
+criciúma,3165305.0
+cruzeiro do sul,3165404.0
+cuiabá,3165503.0
+curitiba,3165537.0
+diadema,3165552.0
+dias d'ávila,3165560.0
+divinópolis,3165578.0
+dois irmãos,3165602.0
+dom pedrito,3165701.0
+dourados,3165800.0
+duque de caxias,3165909.0
+eldorado do sul,3166006.0
+embu das artes,3166105.0
+erechim,3166204.0
+estrela,3166303.0
+estância velha,3166402.0
+extrema,3166501.0
+farroupilha,3166709.0
+faxinal,3166808.0
+feira de santana,3166907.0
+ferraz de vasconcelos,3166956.0
+florianópolis,3167103.0
+fortaleza,3167202.0
+fortim,3167301.0
+foz do iguaçu,3167400.0
+francisco beltrão,3167509.0
+franco da rocha,3167608.0
+garibaldi,3167707.0
+gaspar,3167806.0
+goiana,3167905.0
+goianésia,3168002.0
+goiânia,3168051.0
+governador valadares,3168101.0
+gravatal,3168200.0
+gravataí,3168309.0
+guapimirim,3168408.0
+guarapari,3168507.0
+guarapuava,3168606.0
+guarujá,3168705.0
+guarulhos,3168804.0
+guaíra,3168903.0
+guimarânia,3169000.0
+hidrolândia,3169059.0
+hortolândia,3169109.0
+igaracy,3169208.0
+ilhéus,3169307.0
+imbituba,3169356.0
+indaial,3169406.0
+ipatinga,3169505.0
+ipiaú,3169604.0
+ipubi,3169703.0
+iracemápolis,3169802.0
+iretama,3169901.0
+itaboraí,3170008.0
+itabuna,3170057.0
+itacoatiara,3170107.0
+itagibá,3170206.0
+itaitinga,3170305.0
+itaituba,3170404.0
+itajaí,3170438.0
+itajuípe,3170503.0
+itamaraju,3170529.0
+itapecerica da serra,3170578.0
+itapema,3170602.0
+itapemirim,3170701.0
+itapevi,3170750.0
+itaquaquecetuba,3170800.0
+itororó,3170909.0
+itumbiara,3171006.0
+itupeva,3171071.0
+ivoti,3171105.0
+jaboatão dos guararapes,3171154.0
+jaguariúna,3171204.0
+jaguaruna,3171303.0
+jaraguá do sul,3171402.0
+jaru,3171501.0
+jataí,3171600.0
+jequié,3171709.0
+ji-paraná,3171808.0
+joinville,3171907.0
+joão pessoa,3172004.0
+juazeiro do norte,3172103.0
+juazeiro,3172202.0
+juiz de fora,3200102.0
+jundiaí,3200136.0
+lages,3200169.0
+lagoa da prata,3200201.0
+laguna,3200300.0
+lajeado,3200359.0
+lapa,3200409.0
+lençóis paulista,3200508.0
+linhares,3200607.0
+louveira,3200805.0
+luziânia,3200904.0
+luís gomes,3201001.0
+macapá,3201100.0
+macaé,3201159.0
+macaíba,3201209.0
+maceió,3201308.0
+mairiporã,3201407.0
+manacapuru,3201506.0
+manaus,3201605.0
+mangaratiba,3201704.0
+manhuaçu,3201803.0
+marabá,3201902.0
+maracanaú,3202009.0
+maranguape,3202108.0
+marau,3202207.0
+marechal cândido rondon,3202256.0
+mariana,3202306.0
+maringá,3202405.0
+marituba,3202454.0
+mariópolis,3202504.0
+matinhos,3202553.0
+matão,3202603.0
+mauriti,3202652.0
+mauá,3202702.0
+medeiros neto,3202801.0
+medianeira,3202900.0
+miguel pereira,3203007.0
+mogi guaçu,3203056.0
+mogi das cruzes,3203106.0
+monte alegre,3203130.0
+mossoró,3203163.0
+muriaé,3203205.0
+natal,3203304.0
+navegantes,3203320.0
+niterói,3203346.0
+nossa senhora da glória,3203353.0
+nova andradina,3203403.0
+nova iguaçu,3203502.0
+nova lima,3203601.0
+nova monte verde,3203700.0
+nova odessa,3203809.0
+nova palma,3203908.0
+nova soure,3204005.0
+novo airão,3204054.0
+novo hamburgo,3204104.0
+osasco,3204203.0
+osório,3204252.0
+palmares,3204302.0
+palmas,3204351.0
+papanduva,3204401.0
+paranaiguara,3204500.0
+paranavaí,3204559.0
+parauapebas,3204609.0
+paraí,3204658.0
+parnamirim,3204708.0
+parnaíba,3204807.0
+passa e fica,3204906.0
+passo fundo,3204955.0
+pato branco,3205002.0
+patos,3205010.0
+patrocínio,3205036.0
+paulínia,3205069.0
+peabiru,3205101.0
+pelotas,3205150.0
+penápolis,3205176.0
+pescaria brava,3205200.0
+petrolina,3205309.0
+petrópolis,3300100.0
+piracicaba,3300159.0
+pirajuí,3300209.0
+piratini,3300225.0
+pojuca,3300233.0
+pomerode,3300258.0
+ponta grossa,3300308.0
+ponta porã,3300407.0
+porto acre,3300506.0
+porto alegre,3300605.0
+porto belo,3300704.0
+porto feliz,3300803.0
+porto real do colégio,3300902.0
+porto seguro,3300936.0
+porto velho,3300951.0
+poá,3301009.0
+poços de caldas,3301108.0
+prado,3301157.0
+propriá,3301207.0
+quatiguá,3301306.0
+quatro barras,3301405.0
+quixadá,3301504.0
+rancho queimado,3301603.0
+recife,3301702.0
+resende,3301801.0
+ribeirão pires,3301850.0
+ribeirão preto,3301876.0
+rio bonito,3301900.0
+rio branco do sul,3302007.0
+rio branco,3302056.0
+rio claro,3302106.0
+rio grande,3302205.0
+rio negro,3302254.0
+rio verde de mato grosso,3302270.0
+rio verde,3302304.0
+rio das ostras,3302403.0
+rio de janeiro,3302452.0
+rolante,3302502.0
+rondonópolis,3302601.0
+sabará,3302809.0
+salto de pirapora,3302908.0
+salvador,3303005.0
+sant'ana do livramento,3303104.0
+santa isabel,3303203.0
+santa luzia,3303302.0
+santa maria,3303401.0
+santa quitéria,3303500.0
+santa rosa,3303609.0
+santa teresa,3303708.0
+santana de parnaíba,3303807.0
+santiago,3303856.0
+santo andré,3303906.0
+santo antônio da patrulha,3303955.0
+santos,3304003.0
+sapiranga,3304102.0
+serafina corrêa,3304110.0
+seropédica,3304128.0
+serra do salitre,3304151.0
+serra,3304201.0
+sete lagoas,3304300.0
+siderópolis,3304409.0
+sidrolândia,3304508.0
+silvânia,3304524.0
+sobral,3304557.0
+sorocaba,3304607.0
+sousa,3304706.0
+suzano,3304755.0
+são bernardo do campo,3304805.0
+são caetano do sul,3304904.0
+são domingos do sul,3305000.0
+são domingos,3305133.0
+são francisco do sul,3305158.0
+são gonçalo do amarante,3305208.0
+são gonçalo,3305307.0
+são josé de mipibu,3305406.0
+são josé do divino,3305505.0
+são josé do rio pardo,3305554.0
+são josé do rio preto,3305604.0
+são josé dos campos,3305703.0
+são josé dos pinhais,3305752.0
+são josé,3305802.0
+são joão del rei,3305901.0
+são leopoldo,3306008.0
+são lourenço da mata,3306107.0
+são lourenço do oeste,3306156.0
+são ludgero,3306206.0
+são luís,3306305.0
+são mateus,3500105.0
+são paulo,3500204.0
+são pedro da aldeia,3500303.0
+são pedro,3500402.0
+são roque do canaã,3500501.0
+são sebastião,3500550.0
+são vicente,3500600.0
+taboão da serra,3500709.0
+taquara,3500758.0
+taquari,3500808.0
+tatuí,3500907.0
+taubaté,3501004.0
+teixeira de freitas,3501103.0
+telêmaco borba,3501152.0
+teresina,3501202.0
+teresópolis,3501301.0
+terra rica,3501400.0
+tibau,3501509.0
+tijucas,3501608.0
+timbé do sul,3501707.0
+timóteo,3501806.0
+torres,3501905.0
+tubarão,3502002.0
+tucuruí,3502101.0
+uberaba,3502200.0
+uberlândia,3502309.0
+umuarama,3502408.0
+unaí,3502507.0
+união da vitória,3502606.0
+urussanga,3502705.0
+valença,3502754.0
+valinhos,3502804.0
+valparaíso de goiás,3502903.0
+vargem grande paulista,3503000.0
+verê,3503109.0
+viamão,3503158.0
+viana,3503208.0
+vila velha,3503307.0
+vinhedo,3503356.0
+vitória,3503406.0
+volta redonda,3503505.0
+votorantim,3503604.0
+votuporanga,3503703.0
+várzea grande,3503802.0
+águas lindas de goiás,3503901.0
+abaetetuba,3504008.0
+acrelândia,3504107.0
+afonso cláudio,3504206.0
+alagoinhas,3504305.0
+alcinópolis,3504404.0
+alegrete,3504503.0
+alfenas,3504602.0
+aliança,3504800.0
+alto rio novo,3504909.0
+alvorada,3505005.0
+americana,3505104.0
+ananindeua,3505203.0
+angra dos reis,3505302.0
+anta gorda,3505351.0
+anápolis,3505401.0
+aparecida de goiânia,3505500.0
+apodi,3505609.0
+aquiraz,3505708.0
+aracaju,3505807.0
+aracruz,3505906.0
+araguari,3506003.0
+araguaína,3506102.0
+arapongas,3506201.0
+araucária,3506300.0
+araçatuba,3506359.0
+arraial do cabo,3506409.0
+arujá,3506508.0
+assis chateaubriand,3506607.0
+açailândia,3506706.0
+açu,3506805.0
+bagé,3506904.0
+balneário camboriú,3507001.0
+barcarena,3507100.0
+barra mansa,3507159.0
+barra do rocha,3507209.0
+barra,3507308.0
+barreiras,3507407.0
+barueri,3507456.0
+batayporã,3507506.0
+bauru,3507605.0
+beberibe,3507704.0
+belo horizonte,3507753.0
+belo jardim,3507803.0
+belém,3507902.0
+bento gonçalves,3508009.0
+betim,3508108.0
+blumenau,3508207.0
+boa esperança,3508306.0
+boa vista,3508405.0
+boca do acre,3508504.0
+bom despacho,3508603.0
+bonfim,3508702.0
+brasília,3508801.0
+braço do norte,3508900.0
+brodowski,3509106.0
+brumado,3509205.0
+brusque,3509254.0
+cabedelo,3509304.0
+cachoeira paulista,3509403.0
+cachoeira do sul,3509452.0
+cachoeirinha,3509502.0
+cachoeiro de itapemirim,3509601.0
+caicó,3509700.0
+cajamar,3509809.0
+caldas novas,3509908.0
+camaquã,3509957.0
+camaragibe,3510005.0
+camaçari,3510153.0
+camboriú,3510203.0
+cambé,3510302.0
+campestre de goiás,3510401.0
+campina grande,3510500.0
+campinas,3510708.0
+campo belo,3510807.0
+campo bom,3511003.0
+campo grande,3511102.0
+campo largo,3511201.0
+campo mourão,3511300.0
+campos altos,3511409.0
+campos dos goytacazes,3511508.0
+canarana,3511607.0
+candeias,3511706.0
+canelinha,3511904.0
+canguçu,3512001.0
+canoas,3512100.0
+capitólio,3512209.0
+capão da canoa,3512308.0
+cariacica,3512407.0
+carlos barbosa,3512506.0
+carmo do cajuru,3512605.0
+caruaru,3512704.0
+cascavel,3512803.0
+castanhal,3512902.0
+castelo,3513009.0
+castro,3513108.0
+catalão,3513207.0
+catu,3513306.0
+caucaia,3513405.0
+caxias do sul,3513504.0
+ceará-mirim,3513603.0
+cerro grande do sul,3513702.0
+chapecó,3513801.0
+charqueadas,3513850.0
+cianorte,3513900.0
+cidade ocidental,3514007.0
+coaraci,3514106.0
+conceição do jacuípe,3514205.0
+conde,3514304.0
+contagem,3514403.0
+contenda,3514502.0
+coronel fabriciano,3514601.0
+cotia,3514700.0
+criciúma,3514809.0
+cruzeiro do sul,3514908.0
+cuiabá,3514924.0
+curitiba,3514957.0
+diadema,3515004.0
+dias d'ávila,3515129.0
+divinópolis,3515152.0
+dois irmãos,3515186.0
+dom pedrito,3515194.0
+dourados,3515202.0
+duque de caxias,3515301.0
+eldorado do sul,3515350.0
+embu das artes,3515400.0
+erechim,3515509.0
+estrela,3515608.0
+estância velha,3515657.0
+eusébio,3515707.0
+extrema,3515806.0
+farroupilha,3515905.0
+faxinal,3516002.0
+fazenda rio grande,3516101.0
+feira de santana,3516200.0
+ferraz de vasconcelos,3516309.0
+florianópolis,3516408.0
+fortaleza,3516507.0
+fortim,3516606.0
+foz do iguaçu,3516705.0
+francisco beltrão,3516804.0
+franco da rocha,3516853.0
+garibaldi,3516903.0
+gaspar,3517000.0
+goiana,3517109.0
+goianésia,3517208.0
+goioerê,3517307.0
+goiânia,3517406.0
+governador valadares,3517505.0
+gravatal,3517604.0
+gravataí,3517703.0
+guapimirim,3517802.0
+guarapari,3517901.0
+guarapuava,3518008.0
+guarujá,3518107.0
+guarulhos,3518206.0
+guaíra,3518305.0
+guimarânia,3518404.0
+hidrolândia,3518503.0
+hortolândia,3518602.0
+ibaiti,3518701.0
+igaracy,3518800.0
+ilhéus,3518859.0
+imbituba,3518909.0
+imperatriz,3519006.0
+indaial,3519055.0
+indaiatuba,3519071.0
+ipatinga,3519105.0
+ipiaú,3519204.0
+ipubi,3519253.0
+iracemápolis,3519303.0
+iretama,3519402.0
+itaboraí,3519501.0
+itabuna,3519600.0
+itacoatiara,3519709.0
+itagibá,3519808.0
+itaitinga,3519907.0
+itaituba,3520004.0
+itajaí,3520103.0
+itajuípe,3520202.0
+itamaraju,3520301.0
+itanhaém,3520426.0
+itapecerica da serra,3520442.0
+itapema,3520509.0
+itapemirim,3520608.0
+itapevi,3520707.0
+itaquaquecetuba,3520806.0
+itororó,3520905.0
+itumbiara,3521002.0
+itupeva,3521101.0
+ivoti,3521150.0
+jaboatão dos guararapes,3521200.0
+jaguariúna,3521309.0
+jaguaruna,3521408.0
+jaraguá do sul,3521507.0
+jaru,3521606.0
+jataí,3521705.0
+jequié,3521804.0
+ji-paraná,3521903.0
+joinville,3522000.0
+joão pessoa,3522109.0
+juazeiro do norte,3522158.0
+juazeiro,3522208.0
+juiz de fora,3522307.0
+jundiaí,3522406.0
+lages,3522505.0
+lagoa da prata,3522604.0
+laguna,3522653.0
+lajeado,3522703.0
+lapa,3522802.0
+lavras,3522901.0
+lençóis paulista,3523008.0
+limeira,3523107.0
+linhares,3523206.0
+londrina,3523305.0
+louveira,3523404.0
+luziânia,3523503.0
+luís gomes,3523602.0
+macapá,3523701.0
+macaé,3523800.0
+macaíba,3523909.0
+maceió,3524006.0
+mairiporã,3524105.0
+manacapuru,3524204.0
+manaus,3524303.0
+mangaratiba,3524402.0
+manhuaçu,3524501.0
+marabá,3524600.0
+maracanaú,3524709.0
+maranguape,3524808.0
+marau,3524907.0
+marechal cândido rondon,3525201.0
+mariana,3525300.0
+maringá,3525409.0
+marituba,3525508.0
+mariópolis,3525607.0
+matinhos,3525706.0
+matão,3525805.0
+mauriti,3525854.0
+mauá,3525904.0
+medeiros neto,3526001.0
+medianeira,3526100.0
+miguel pereira,3526209.0
+mogi guaçu,3526308.0
+mogi das cruzes,3526407.0
+monte alegre,3526506.0
+mossoró,3526605.0
+muriaé,3526704.0
+natal,3526803.0
+navegantes,3526902.0
+niterói,3527009.0
+nossa senhora da glória,3527108.0
+nova andradina,3527207.0
+nova iguaçu,3527306.0
+nova lima,3527405.0
+nova monte verde,3527504.0
+nova odessa,3527603.0
+nova palma,3527702.0
+nova soure,3527801.0
+novo airão,3527900.0
+novo hamburgo,3528007.0
+osasco,3528106.0
+osório,3528304.0
+palmares,3528403.0
+palmas,3528502.0
+papanduva,3528601.0
+paranaiguara,3528700.0
+paranavaí,3528809.0
+parauapebas,3528858.0
+paraí,3528908.0
+parnamirim,3529005.0
+parnaíba,3529104.0
+passa e fica,3529203.0
+passo fundo,3529302.0
+pato branco,3529401.0
+patos,3529500.0
+patrocínio,3529609.0
+paulínia,3529658.0
+peabiru,3529708.0
+pelotas,3529807.0
+penápolis,3529906.0
+pescaria brava,3530003.0
+petrolina,3530102.0
+petrópolis,3530201.0
+piracicaba,3530300.0
+pirajuí,3530409.0
+piratini,3530508.0
+pojuca,3530607.0
+pomerode,3530706.0
+ponta grossa,3530805.0
+ponta porã,3530904.0
+porto acre,3531001.0
+porto alegre,3531100.0
+porto belo,3531209.0
+porto feliz,3531308.0
+porto real do colégio,3531407.0
+porto seguro,3531506.0
+porto velho,3531605.0
+pouso alegre,3531704.0
+poá,3531803.0
+poços de caldas,3531902.0
+prado,3532009.0
+praia grande,3532058.0
+propriá,3532108.0
+quatiguá,3532157.0
+quatro barras,3532207.0
+quixadá,3532306.0
+rancho queimado,3532405.0
+recife,3532504.0
+resende,3532603.0
+ribeirão pires,3532702.0
+ribeirão preto,3532801.0
+rio bonito,3532827.0
+rio branco do sul,3532843.0
+rio branco,3532900.0
+rio claro,3533007.0
+rio grande,3533106.0
+rio negro,3533205.0
+rio verde de mato grosso,3533254.0
+rio verde,3533304.0
+rio das ostras,3533403.0
+rio de janeiro,3533502.0
+rolante,3533601.0
+rondonópolis,3533700.0
+sabará,3533809.0
+salto de pirapora,3533908.0
+salvador,3534005.0
+sant'ana do livramento,3534104.0
+santa isabel,3534203.0
+santa luzia,3534302.0
+santa maria,3534401.0
+santa quitéria,3534500.0
+santa rosa,3534609.0
+santa teresa,3534708.0
+santana de parnaíba,3534757.0
+santarém,3534807.0
+santiago,3534906.0
+santo andré,3535002.0
+santo antônio da patrulha,3535101.0
+santos,3535200.0
+sapiranga,3535309.0
+serafina corrêa,3535408.0
+seropédica,3535507.0
+serra do salitre,3535606.0
+serra,3535705.0
+sete lagoas,3535804.0
+siderópolis,3535903.0
+sidrolândia,3536000.0
+silvânia,3536109.0
+sobral,3536208.0
+sorocaba,3536307.0
+sousa,3536406.0
+suzano,3536505.0
+são bernardo do campo,3536570.0
+são caetano do sul,3536604.0
+são domingos do sul,3536703.0
+são domingos,3536802.0
+são francisco do sul,3537008.0
+são gonçalo do amarante,3537107.0
+são gonçalo,3537156.0
+são josé de mipibu,3537206.0
+são josé do divino,3537305.0
+são josé do rio pardo,3537404.0
+são josé do rio preto,3537503.0
+são josé dos campos,3537602.0
+são josé dos pinhais,3537701.0
+são josé,3537800.0
+são joão del rei,3537909.0
+são leopoldo,3538006.0
+são lourenço da mata,3538105.0
+são lourenço do oeste,3538204.0
+são ludgero,3538303.0
+são luís,3538501.0
+são mateus,3538600.0
+são paulo,3538709.0
+são pedro da aldeia,3538808.0
+são pedro,3538907.0
+são roque do canaã,3539004.0
+são sebastião do caí,3539103.0
+são sebastião,3539202.0
+são vicente,3539301.0
+taboão da serra,3539400.0
+tangará da serra,3539509.0
+taquara,3539608.0
+taquari,3539707.0
+tatuí,3539806.0
+taubaté,3539905.0
+teixeira de freitas,3540002.0
+telêmaco borba,3540101.0
+teresina,3540200.0
+teresópolis,3540259.0
+terra rica,3540309.0
+tianguá,3540408.0
+tibau,3540507.0
+tijucas,3540606.0
+timbé do sul,3540705.0
+timóteo,3540804.0
+torres,3540903.0
+trindade,3541000.0
+três lagoas,3541059.0
+tubarão,3541109.0
+tucuruí,3541208.0
+uberaba,3541307.0
+uberlândia,3541406.0
+umuarama,3541505.0
+unaí,3541604.0
+união da vitória,3541653.0
+urussanga,3541703.0
+valença,3541802.0
+valinhos,3541901.0
+valparaíso de goiás,3542008.0
+vargem grande paulista,3542107.0
+verê,3542206.0
+viamão,3542305.0
+viana,3542404.0
+vila velha,3542503.0
+vinhedo,3542602.0
+vitória da conquista,3542800.0
+vitória,3542909.0
+volta redonda,3543006.0
+votorantim,3543105.0
+votuporanga,3543204.0
+várzea grande,3543238.0
+águas lindas de goiás,3543253.0
+abaetetuba,3543303.0
+acrelândia,3543402.0
+afonso cláudio,3543501.0
+agudos,3543600.0
+alagoinhas,3543709.0
+alcinópolis,3543808.0
+alegrete,3543907.0
+alfenas,3544004.0
+aliança,3544202.0
+alto rio novo,3544251.0
+alvorada,3544301.0
+americana,3544509.0
+ananindeua,3544608.0
+angra dos reis,3544707.0
+anta gorda,3544806.0
+anápolis,3544905.0
+aparecida de goiânia,3545001.0
+apodi,3545100.0
+aquiraz,3545159.0
+aracaju,3545209.0
+aracruz,3545308.0
+araguari,3545407.0
+araguaína,3545506.0
+arapongas,3545605.0
+araraquara,3545704.0
+araucária,3545803.0
+araçatuba,3546009.0
+arcos,3546207.0
+arraial do cabo,3546256.0
+arujá,3546306.0
+assis chateaubriand,3546405.0
+assis,3546504.0
+açailândia,3546603.0
+açu,3546702.0
+bagé,3546801.0
+balneário camboriú,3546900.0
+barbacena,3547007.0
+barcarena,3547106.0
+barra mansa,3547205.0
+barra do rocha,3547304.0
+barra,3547403.0
+barreiras,3547502.0
+barueri,3547601.0
+batayporã,3547650.0
+bauru,3547700.0
+beberibe,3547809.0
+belmonte,3547908.0
+belo horizonte,3548005.0
+belo jardim,3548054.0
+belém,3548104.0
+bento gonçalves,3548203.0
+betim,3548302.0
+biguaçu,3548401.0
+blumenau,3548500.0
+boa esperança,3548609.0
+boa vista,3548708.0
+boca do acre,3548807.0
+bom despacho,3548906.0
+bonfim,3549003.0
+brasília,3549102.0
+braço do norte,3549300.0
+brodowski,3549409.0
+brumado,3549508.0
+brusque,3549607.0
+cabedelo,3549706.0
+cachoeira paulista,3549805.0
+cachoeira do sul,3549904.0
+cachoeirinha,3549953.0
+cachoeiro de itapemirim,3550001.0
+caicó,3550100.0
+cajamar,3550209.0
+caldas novas,3550308.0
+camaquã,3550407.0
+camaragibe,3550506.0
+camaçari,3550605.0
+camboriú,3550704.0
+cambé,3550803.0
+campestre de goiás,3550902.0
+campina grande,3551009.0
+campinas,3551108.0
+campo belo,3551207.0
+campo bom,3551306.0
+campo grande,3551405.0
+campo largo,3551504.0
+campo mourão,3551603.0
+campos altos,3551702.0
+campos dos goytacazes,3551801.0
+canarana,3551900.0
+candeias,3552007.0
+canelinha,3552106.0
+canguçu,3552205.0
+canoas,3552304.0
+cantá,3552403.0
+capela,3552502.0
+capitólio,3552551.0
+capão da canoa,3552601.0
+cariacica,3552700.0
+carlos barbosa,3552809.0
+carmo do cajuru,3552908.0
+caruaru,3553005.0
+cascavel,3553104.0
+castanhal,3553203.0
+castelo,3553302.0
+castro,3553401.0
+catalão,3553500.0
+catu,3553609.0
+caucaia,3553658.0
+caxias do sul,3553708.0
+ceará-mirim,3553807.0
+cerro grande do sul,3553856.0
+chapecó,3553906.0
+charqueadas,3553955.0
+cianorte,3554003.0
+cidade ocidental,3554102.0
+coaraci,3554201.0
+conceição do jacuípe,3554300.0
+conde,3554409.0
+contagem,3554508.0
+contenda,3554607.0
+cornélio procópio,3554656.0
+coronel fabriciano,3554706.0
+cotia,3554805.0
+criciúma,3554904.0
+cruzeiro do sul,3554953.0
+cuiabá,3555000.0
+curitiba,3555109.0
+diadema,3555208.0
+dias d'ávila,3555307.0
+divinópolis,3555356.0
+dois irmãos,3555406.0
+dom pedrito,3555505.0
+dourados,3555604.0
+dracena,3555703.0
+duque de caxias,3555802.0
+eldorado do sul,3555901.0
+embu das artes,3556008.0
+erechim,3556107.0
+estrela,3556206.0
+estância velha,3556305.0
+eusébio,3556354.0
+extrema,3556404.0
+farroupilha,3556453.0
+faxinal,3556503.0
+fazenda rio grande,3556602.0
+feira de santana,3556701.0
+ferraz de vasconcelos,3556800.0
+florianópolis,3556909.0
+fortaleza,3556958.0
+fortim,3557006.0
+foz do iguaçu,3557105.0
+franca,3557154.0
+francisco beltrão,3557204.0
+francisco morato,4100103.0
+franco da rocha,4100202.0
+fundão,4100301.0
+garibaldi,4100459.0
+gaspar,4100509.0
+goiana,4100608.0
+goianésia,4100707.0
+goioerê,4100806.0
+goiânia,4100905.0
+governador valadares,4101002.0
+gravatal,4101101.0
+gravataí,4101150.0
+guapimirim,4101200.0
+guarapari,4101309.0
+guarapuava,4101408.0
+guarujá,4101507.0
+guarulhos,4101606.0
+guaíba,4101655.0
+guaíra,4101705.0
+guimarânia,4101804.0
+hidrolândia,4101853.0
+hortolândia,4101903.0
+ibaiti,4102000.0
+icó,4102109.0
+igaracy,4102208.0
+ilhéus,4102307.0
+imbituba,4102406.0
+imperatriz,4102505.0
+indaial,4102604.0
+indaiatuba,4102703.0
+ipatinga,4102752.0
+ipiaú,4102802.0
+ipubi,4102901.0
+iracemápolis,4103024.0
+iretama,4103040.0
+itaboraí,4103057.0
+itabuna,4103107.0
+itacoatiara,4103156.0
+itagibá,4103206.0
+itaguaí,4103222.0
+itaitinga,4103305.0
+itaituba,4103354.0
+itajaí,4103370.0
+itajuípe,4103404.0
+itamaraju,4103453.0
+itanhaém,4103479.0
+itapajé,4103503.0
+itapecerica da serra,4103602.0
+itapema,4103701.0
+itapemirim,4103800.0
+itapevi,4103909.0
+itapipoca,4103958.0
+itaquaquecetuba,4104006.0
+itararé,4104055.0
+itororó,4104105.0
+itu,4104204.0
+itumbiara,4104303.0
+itupeva,4104402.0
+ivoti,4104428.0
+jaboatão dos guararapes,4104451.0
+jaguaribe,4104501.0
+jaguariúna,4104600.0
+jaguaruna,4104659.0
+jaraguá do sul,4104709.0
+jaru,4104808.0
+jataí,4104907.0
+jaú,4105003.0
+jequié,4105102.0
+ji-paraná,4105201.0
+joaçaba,4105300.0
+joinville,4105409.0
+joão pessoa,4105508.0
+juazeiro do norte,4105607.0
+juazeiro,4105706.0
+juiz de fora,4105904.0
+jundiaí,4106001.0
+lages,4106100.0
+lagoa da prata,4106209.0
+laguna,4106308.0
+lajeado,4106407.0
+lapa,4106456.0
+lavras,4106506.0
+lençóis paulista,4106555.0
+leópolis,4106571.0
+limeira,4106605.0
+linhares,4106704.0
+londrina,4106803.0
+louveira,4106852.0
+lucas do rio verde,4106902.0
+luziânia,4107009.0
+luís gomes,4107108.0
+macapá,4107124.0
+macaé,4107157.0
+macaíba,4107207.0
+maceió,4107256.0
+magé,4107306.0
+mairiporã,4107405.0
+manacapuru,4107504.0
+manaus,4107520.0
+mandirituba,4107538.0
+mangaratiba,4107546.0
+manhuaçu,4107553.0
+marabá,4107603.0
+maracanaú,4107652.0
+maranguape,4107702.0
+marau,4107736.0
+marechal cândido rondon,4107751.0
+mariana,4107801.0
+maringá,4107850.0
+marituba,4107900.0
+mariópolis,4108007.0
+matinhos,4108106.0
+matão,4108205.0
+mauriti,4108304.0
+mauá,4108320.0
+medeiros neto,4108403.0
+medianeira,4108452.0
+miguel pereira,4108502.0
+mogi guaçu,4108551.0
+mogi das cruzes,4108601.0
+monte alegre,4108650.0
+mossoró,4108700.0
+muriaé,4108809.0
+natal,4108908.0
+navegantes,4108957.0
+niterói,4109005.0
+nossa senhora da glória,4109203.0
+nova andradina,4109302.0
+nova iguaçu,4109401.0
+nova lima,4109500.0
+nova monte verde,4109609.0
+nova odessa,4109658.0
+nova palma,4109708.0
+nova soure,4109757.0
+novo airão,4109807.0
+novo hamburgo,4109906.0
+osasco,4110003.0
+osório,4110052.0
+palmares,4110078.0
+palmas,4110102.0
+palmeira,4110201.0
+papanduva,4110300.0
+paranaguá,4110409.0
+paranaiguara,4110508.0
+paranavaí,4110607.0
+parauapebas,4110656.0
+paraí,4110706.0
+parnamirim,4110805.0
+parnaíba,4110904.0
+passa e fica,4110953.0
+passo fundo,4111001.0
+pato branco,4111100.0
+patos,4111209.0
+patrocínio,4111308.0
+paulo lopes,4111407.0
+paulínia,4111506.0
+peabiru,4111555.0
+pelotas,4111605.0
+penápolis,4111704.0
+pescaria brava,4111803.0
+petrolina,4111902.0
+petrópolis,4112009.0
+piracicaba,4112108.0
+pirajuí,4112207.0
+piratini,4112306.0
+pojuca,4112405.0
+pomerode,4112504.0
+ponta grossa,4112702.0
+ponta porã,4112751.0
+porto acre,4112801.0
+porto alegre,4112900.0
+porto belo,4112959.0
+porto feliz,4113007.0
+porto real do colégio,4113106.0
+porto seguro,4113205.0
+porto velho,4113254.0
+pouso alegre,4113304.0
+poá,4113403.0
+poços de caldas,4113429.0
+prado,4113452.0
+praia grande,4113502.0
+propriá,4113601.0
+quatiguá,4113700.0
+quatro barras,4113734.0
+quixadá,4113759.0
+rancho queimado,4113809.0
+recife,4113908.0
+resende,4114005.0
+ribeirão pires,4114104.0
+ribeirão preto,4114203.0
+rio bonito,4114302.0
+rio branco do sul,4114351.0
+rio branco,4114401.0
+rio claro,4114500.0
+rio grande,4114609.0
+rio negro,4114708.0
+rio verde de mato grosso,4114807.0
+rio verde,4114906.0
+rio das ostras,4115101.0
+rio de janeiro,4115200.0
+rolante,4115309.0
+rondonópolis,4115358.0
+sabará,4115408.0
+salto de pirapora,4115457.0
+salvador,4115507.0
+sant'ana do livramento,4115606.0
+santa cruz cabrália,4115705.0
+santa isabel,4115739.0
+santa luzia,4115754.0
+santa maria,4115804.0
+santa quitéria,4115853.0
+santa rosa,4116000.0
+santa teresa,4116059.0
+santana de parnaíba,4116109.0
+santana do paraíso,4116208.0
+santarém,4116307.0
+santiago,4116406.0
+santo andré,4116604.0
+santo antônio da patrulha,4116703.0
+santo antônio do monte,4116802.0
+santos,4116901.0
+sapiranga,4116950.0
+sapucaia do sul,4117008.0
+serafina corrêa,4117057.0
+seropédica,4117107.0
+serra do salitre,4117206.0
+serra,4117214.0
+sete lagoas,4117222.0
+siderópolis,4117255.0
+sidrolândia,4117271.0
+silvânia,4117297.0
+sinop,4117305.0
+sobral,4117404.0
+sooretama,4117453.0
+sorocaba,4117503.0
+sousa,4117602.0
+suzano,4117701.0
+são bernardo do campo,4117800.0
+são caetano do sul,4117909.0
+são domingos do sul,4118006.0
+são domingos,4118105.0
+são francisco do sul,4118204.0
+são gabriel,4118303.0
+são gonçalo do amarante,4118402.0
+são gonçalo,4118451.0
+são josé de mipibu,4118501.0
+são josé do divino,4118600.0
+são josé do rio pardo,4118709.0
+são josé do rio preto,4118808.0
+são josé dos campos,4118857.0
+são josé dos pinhais,4118907.0
+são josé,4119004.0
+são joão del rei,4119103.0
+são leopoldo,4119202.0
+são lourenço da mata,4119251.0
+são lourenço do oeste,4119301.0
+são ludgero,4119400.0
+são luís,4119608.0
+são manoel do paraná,4119657.0
+são mateus,4119707.0
+são paulo,4119806.0
+são pedro da aldeia,4119905.0
+são pedro,4119954.0
+são roque do canaã,4120002.0
+são sebastião do caí,4120101.0
+são sebastião,4120150.0
+são vicente,4120200.0
+taboão da serra,4120309.0
+tangará da serra,4120333.0
+taquara,4120358.0
+taquari,4120408.0
+tatuí,4120507.0
+taubaté,4120606.0
+teixeira de freitas,4120655.0
+telêmaco borba,4120705.0
+teresina,4120804.0
+teresópolis,4120853.0
+terra boa,4120903.0
+terra rica,4121000.0
+tianguá,4121109.0
+tibau,4121208.0
+tijucas,4121307.0
+timbé do sul,4121406.0
+timóteo,4121505.0
+toledo,4121604.0
+torres,4121703.0
+tramandaí,4121752.0
+trindade,4121802.0
+três lagoas,4121901.0
+tubarão,4122008.0
+tucuruí,4122107.0
+uberaba,4122156.0
+uberlândia,4122172.0
+umuarama,4122206.0
+unaí,4122305.0
+união da vitória,4122404.0
+uruguaiana,4122503.0
+urussanga,4122602.0
+valença,4122651.0
+valinhos,4122701.0
+valparaíso de goiás,4122800.0
+vargem grande paulista,4122909.0
+verê,4123006.0
+viamão,4123105.0
+viana,4123204.0
+vila maria,4123303.0
+vila velha,4123402.0
+vinhedo,4123501.0
+vitória da conquista,4123600.0
+vitória,4123709.0
+volta redonda,4123808.0
+votorantim,4123824.0
+votuporanga,4123857.0
+várzea grande,4123907.0
+águas lindas de goiás,4123956.0
+águas de lindóia,4124004.0
+abaetetuba,4124020.0
+acrelândia,4124053.0
+adamantina,4124103.0
+afonso cláudio,4124202.0
+agudos,4124301.0
+alagoinhas,4124400.0
+alcinópolis,4124509.0
+alegrete,4124608.0
+alfenas,4124707.0
+aliança,4124806.0
+altamira,4124905.0
+alto rio novo,4125001.0
+alvorada,4125100.0
+americana,4125209.0
+ananindeua,4125308.0
+angra dos reis,4125357.0
+anta gorda,4125407.0
+anápolis,4125456.0
+aparecida de goiânia,4125506.0
+apodi,4125555.0
+aquiraz,4125605.0
+aracaju,4125704.0
+aracruz,4125753.0
+araguari,4125803.0
+araguaína,4125902.0
+arapongas,4126009.0
+araranguá,4126108.0
+araraquara,4126207.0
+araruama,4126256.0
+araruna,4126272.0
+araucária,4126306.0
+araçatuba,4126355.0
+arcos,4126405.0
+arraial do cabo,4126504.0
+arujá,4126603.0
+assis chateaubriand,4126652.0
+assis,4126678.0
+atibaia,4126702.0
+açailândia,4126801.0
+açu,4126900.0
+bagé,4127007.0
+balneário camboriú,4127106.0
+barbacena,4127205.0
+barcarena,4127304.0
+barra mansa,4127403.0
+barra do piraí,4127502.0
+barra do rocha,4127601.0
+barra,4127700.0
+barreiras,4127809.0
+barueri,4127858.0
+batayporã,4127882.0
+bauru,4127908.0
+baía formosa,4127957.0
+beberibe,4127965.0
+belmonte,4128005.0
+belo horizonte,4128104.0
+belo jardim,4128203.0
+belém,4128302.0
+benevides,4128401.0
+bento gonçalves,4128500.0
+betim,4128534.0
+biguaçu,4128559.0
+blumenau,4128609.0
+boa esperança,4128625.0
+boa vista,4128633.0
+boca do acre,4128658.0
+bom despacho,4128708.0
+bom jesus de goiás,4128807.0
+bonfim,4200051.0
+brasília,4200101.0
+braço do norte,4200200.0
+brodowski,4200309.0
+brumado,4200408.0
+brusque,4200507.0
+cabedelo,4200556.0
+cabo de santo agostinho,4200606.0
+cachoeira paulista,4200705.0
+cachoeira do sul,4200754.0
+cachoeirinha,4200804.0
+cachoeiro de itapemirim,4201000.0
+caicó,4201257.0
+cajamar,4201273.0
+caldas novas,4201307.0
+camaquã,4201406.0
+camaragibe,4201505.0
+camaçari,4201604.0
+camboriú,4201703.0
+cambé,4201802.0
+campestre de goiás,4201901.0
+campina grande do sul,4202008.0
+campina grande,4202057.0
+campinas,4202081.0
+campo belo,4202107.0
+campo bom,4202131.0
+campo grande,4202156.0
+campo largo,4202206.0
+campo maior,4202305.0
+campo mourão,4202404.0
+campos altos,4202438.0
+campos dos goytacazes,4202453.0
+canarana,4202503.0
+candeias,4202537.0
+canelinha,4202578.0
+canguçu,4202602.0
+canindé,4202800.0
+canoas,4202859.0
+cantá,4202875.0
+capela,4202909.0
+capitólio,4203006.0
+capão da canoa,4203105.0
+caraúbas,4203154.0
+cariacica,4203204.0
+carlos barbosa,4203253.0
+carmo do cajuru,4203303.0
+caruaru,4203402.0
+cascavel,4203501.0
+castanhal,4203600.0
+castelo,4203709.0
+castro,4203808.0
+catalão,4203907.0
+catu,4203956.0
+caucaia,4204004.0
+caxias do sul,4204103.0
+ceará-mirim,4204152.0
+cerro grande do sul,4204178.0
+chapecó,4204202.0
+charqueadas,4204251.0
+cianorte,4204301.0
+cidade ocidental,4204350.0
+coaraci,4204400.0
+colatina,4204509.0
+conceição do jacuípe,4204558.0
+conde,4204608.0
+contagem,4204707.0
+contenda,4204756.0
+cornélio procópio,4204806.0
+coronel fabriciano,4204905.0
+cotia,4205001.0
+cravinhos,4205100.0
+criciúma,4205159.0
+cruzeiro do sul,4205175.0
+cuiabá,4205191.0
+curitiba,4205209.0
+diadema,4205308.0
+dias d'ávila,4205407.0
+divinópolis,4205431.0
+dois irmãos,4205456.0
+dom pedrito,4205506.0
+dourados,4205555.0
+dracena,4205605.0
+duque de caxias,4205704.0
+eldorado do sul,4205803.0
+embu das artes,4205902.0
+erechim,4206108.0
+esmeraldas,4206207.0
+estrela,4206405.0
+estância velha,4206504.0
+eusébio,4206603.0
+extrema,4206652.0
+farias brito,4206751.0
+farroupilha,4206801.0
+faxinal,4206900.0
+fazenda rio grande,4207106.0
+feira de santana,4207205.0
+ferraz de vasconcelos,4207304.0
+florianópolis,4207403.0
+fortaleza,4207502.0
+fortim,4207577.0
+foz do iguaçu,4207601.0
+franca,4207650.0
+francisco beltrão,4207684.0
+francisco morato,4207700.0
+franco da rocha,4207759.0
+fundão,4207809.0
+garibaldi,4207858.0
+gaspar,4207908.0
+goiana,4208005.0
+goianésia do pará,4208104.0
+goianésia,4208203.0
+goioerê,4208302.0
+goiânia,4208401.0
+governador valadares,4208450.0
+gravatal,4208500.0
+gravataí,4208609.0
+guapimirim,4208708.0
+guarapari,4208807.0
+guarapuava,4208906.0
+guarujá,4209003.0
+guarulhos,4209102.0
+guaíba,4209151.0
+guaíra,4209177.0
+guimarânia,4209201.0
+hidrolândia,4209300.0
+hortolândia,4209409.0
+ibaiti,4209458.0
+icó,4209508.0
+igaracy,4209607.0
+iguaba grande,4209706.0
+ilhéus,4209854.0
+imbituba,4209904.0
+imperatriz,4210001.0
+indaial,4210035.0
+indaiatuba,4210050.0
+ipaporanga,4210100.0
+ipatinga,4210209.0
+ipiaú,4210308.0
+ipubi,4210407.0
+iracemápolis,4210506.0
+irati,4210555.0
+iretama,4210605.0
+itabira,4210704.0
+itaboraí,4210803.0
+itabuna,4210902.0
+itacoatiara,4211009.0
+itagibá,4211058.0
+itaguaí,4211108.0
+itaitinga,4211207.0
+itaituba,4211256.0
+itajaí,4211306.0
+itajuípe,4211405.0
+itamaraju,4211454.0
+itanhaém,4211504.0
+itapajé,4211652.0
+itapecerica da serra,4211702.0
+itapema,4211751.0
+itapemirim,4211876.0
+itapevi,4211892.0
+itapipoca,4211900.0
+itaquaquecetuba,4212007.0
+itararé,4212056.0
+itororó,4212106.0
+itu,4212205.0
+itumbiara,4212239.0
+itupeva,4212254.0
+ivoti,4212270.0
+jaboatão dos guararapes,4212304.0
+jaboticabal,4212403.0
+jaguaribe,4212502.0
+jaguariúna,4212601.0
+jaguaruna,4212650.0
+jaraguá do sul,4212700.0
+jaru,4212809.0
+jataí,4212908.0
+jaú,4213005.0
+jequié,4213104.0
+ji-paraná,4213153.0
+joaçaba,4213203.0
+joinville,4213302.0
+joão pessoa,4213351.0
+juazeiro do norte,4213401.0
+juazeiro,4213500.0
+juiz de fora,4213609.0
+junco do seridó,4213708.0
+jundiaí,4213807.0
+lages,4213906.0
+lagoa da prata,4214003.0
+laguna,4214102.0
+lajeado,4214151.0
+lapa,4214201.0
+lavras,4214300.0
+lençóis paulista,4214409.0
+leópolis,4214508.0
+limeira,4214607.0
+linhares,4214706.0
+londrina,4214805.0
+louveira,4214904.0
+lucas do rio verde,4215000.0
+luziânia,4215075.0
+luís gomes,4215109.0
+macapá,4215208.0
+macaé,4215356.0
+macaíba,4215406.0
+maceió,4215455.0
+mafra,4215505.0
+magé,4215554.0
+mairiporã,4215653.0
+manacapuru,4215679.0
+manaus,4215687.0
+mandirituba,4215703.0
+mangaratiba,4215752.0
+manhuaçu,4215802.0
+marabá,4215901.0
+maracanaú,4216008.0
+maranguape,4216057.0
+marau,4216107.0
+marechal cândido rondon,4216206.0
+marechal deodoro,4216255.0
+mariana,4216305.0
+maringá,4216354.0
+marituba,4216404.0
+mariópolis,4216503.0
+marília,4216602.0
+matinhos,4216701.0
+matão,4216800.0
+mauriti,4216909.0
+mauá,4217006.0
+medeiros neto,4217105.0
+medianeira,4217154.0
+miguel pereira,4217204.0
+mogi guaçu,4217303.0
+mogi das cruzes,4217501.0
+monte alegre,4217550.0
+morro da fumaça,4217600.0
+mossoró,4217709.0
+muriaé,4217758.0
+natal,4217808.0
+navegantes,4217907.0
+nilópolis,4217956.0
+niterói,4218004.0
+nossa senhora da glória,4218103.0
+nova andradina,4218202.0
+nova iguaçu,4218301.0
+nova lima,4218350.0
+nova monte verde,4218509.0
+nova odessa,4218608.0
+nova palma,4218707.0
+nova soure,4218806.0
+nova veneza,4218905.0
+novo airão,4218954.0
+novo hamburgo,4219002.0
+novo progresso,4219101.0
+osasco,4219150.0
+osório,4219176.0
+palhoça,4219200.0
+palmares,4219309.0
+palmas,4219358.0
+palmeira,4219408.0
+papanduva,4219507.0
+paranaguá,4219606.0
+paranaiguara,4219705.0
+paranavaí,4219853.0
+parauapebas,4300034.0
+paraí,4300059.0
+parnamirim,4300109.0
+parnaíba,4300208.0
+passa e fica,4300307.0
+passo fundo,4300406.0
+pato branco,4300455.0
+patos,4300471.0
+patrocínio,4300505.0
+paulista,4300554.0
+paulo lopes,4300570.0
+paulínia,4300604.0
+peabiru,4300638.0
+pelotas,4300646.0
+penápolis,4300661.0
+pescaria brava,4300703.0
+petrolina,4300802.0
+petrópolis,4300851.0
+piracicaba,4300877.0
+pirajuí,4300901.0
+piratini,4301008.0
+pojuca,4301057.0
+pomerode,4301073.0
+ponta grossa,4301107.0
+ponta porã,4301206.0
+porciúncula,4301305.0
+porto acre,4301404.0
+porto alegre,4301503.0
+porto belo,4301602.0
+porto feliz,4301636.0
+porto real do colégio,4301651.0
+porto seguro,4301701.0
+porto velho,4301750.0
+pouso alegre,4301800.0
+poá,4301859.0
+poços de caldas,4301875.0
+prado,4301909.0
+praia grande,4301958.0
+promissão,4302006.0
+propriá,4302055.0
+quatiguá,4302105.0
+quatro barras,4302154.0
+quixadá,4302204.0
+rancho queimado,4302220.0
+recife,4302238.0
+resende,4302253.0
+ribeirão pires,4302303.0
+ribeirão preto,4302352.0
+rio bonito,4302378.0
+rio branco do sul,4302402.0
+rio branco,4302451.0
+rio claro,4302501.0
+rio grande,4302584.0
+rio negro,4302659.0
+rio verde de mato grosso,4302709.0
+rio verde,4302808.0
+rio das ostras,4302907.0
+rio de janeiro,4303004.0
+rolante,4303103.0
+rondonópolis,4303202.0
+sabará,4303301.0
+salto de pirapora,4303400.0
+salvador,4303509.0
+sant'ana do livramento,4303558.0
+santa cruz cabrália,4303608.0
+santa isabel,4303673.0
+santa luzia,4303707.0
+santa maria,4303806.0
+santa quitéria,4303905.0
+santa rosa,4304002.0
+santa teresa,4304101.0
+santana de parnaíba,4304200.0
+santana do paraíso,4304309.0
+santarém,4304358.0
+santiago,4304408.0
+santo andré,4304507.0
+santo antônio da patrulha,4304606.0
+santo antônio do monte,4304614.0
+santo antônio,4304622.0
+santos,4304630.0
+sapiranga,4304655.0
+sapucaia do sul,4304671.0
+sarandi,4304689.0
+senador canedo,4304697.0
+serafina corrêa,4304705.0
+seropédica,4304713.0
+serra branca,4304804.0
+serra do salitre,4304853.0
+serra,4304903.0
+sete lagoas,4304952.0
+siderópolis,4305009.0
+sidrolândia,4305108.0
+silvânia,4305116.0
+sinop,4305124.0
+sobral,4305132.0
+sooretama,4305157.0
+sorocaba,4305173.0
+sousa,4305207.0
+suzano,4305306.0
+são bernardo do campo,4305355.0
+são caetano do sul,4305371.0
+são domingos do sul,4305405.0
+são domingos,4305439.0
+são francisco do sul,4305447.0
+são gabriel,4305454.0
+são geraldo do araguaia,4305504.0
+são gonçalo do amarante,4305587.0
+são gonçalo,4305702.0
+são josé de mipibu,4305801.0
+são josé de ribamar,4305835.0
+são josé do divino,4305850.0
+são josé do rio pardo,4305871.0
+são josé do rio preto,4305900.0
+são josé dos campos,4305934.0
+são josé dos pinhais,4305959.0
+são josé,4305975.0
+são joão del rei,4306007.0
+são leopoldo,4306056.0
+são lourenço da mata,4306072.0
+são lourenço do oeste,4306106.0
+são ludgero,4306130.0
+são luís de montes belos,4306205.0
+são luís,4306304.0
+são manoel do paraná,4306320.0
+são mateus,4306353.0
+são paulo,4306379.0
+são pedro da aldeia,4306403.0
+são pedro,4306429.0
+são roque do canaã,4306452.0
+são sebastião do caí,4306502.0
+são sebastião,4306551.0
+são vicente,4306601.0
+taboão da serra,4306700.0
+tangará da serra,4306734.0
+taquara,4306759.0
+taquari,4306767.0
+tatuí,4306809.0
+taubaté,4306908.0
+teixeira de freitas,4306924.0
+telêmaco borba,4306932.0
+teresina,4306957.0
+teresópolis,4306973.0
+terra boa,4307005.0
+terra rica,4307054.0
+tianguá,4307104.0
+tibau,4307203.0
+tijucas,4307302.0
+timbé do sul,4307401.0
+timóteo,4307450.0
+toledo,4307500.0
+torres,4307559.0
+tramandaí,4307609.0
+trindade,4307708.0
+três lagoas,4307807.0
+três rios,4307815.0
+tubarão,4307831.0
+tucuruí,4307906.0
+uberaba,4308003.0
+uberlândia,4308052.0
+umuarama,4308078.0
+unaí,4308102.0
+união da vitória,4308201.0
+uruguaiana,4308250.0
+urussanga,4308300.0
+utinga,4308409.0
+valença,4308433.0
+valinhos,4308458.0
+valparaíso de goiás,4308508.0
+vargem grande paulista,4308607.0
+verê,4308656.0
+viamão,4308706.0
+viana,4308805.0
+vila maria,4308904.0
+vila velha,4309001.0
+vinhedo,4309050.0
+vitória da conquista,4309100.0
+vitória,4309159.0
+volta redonda,4309209.0
+votorantim,4309258.0
+votuporanga,4309308.0
+várzea grande,4309407.0
+águas lindas de goiás,4309506.0
+águas de lindóia,4309555.0
+abaetetuba,4309571.0
+acrelândia,4309605.0
+adamantina,4309654.0
+adustina,4309704.0
+afonso cláudio,4309753.0
+agudos,4309803.0
+alagoinhas,4309902.0
+alcinópolis,4309951.0
+alegrete,4310009.0
+alfenas,4310108.0
+aliança,4310207.0
+alta floresta,4310306.0
+altamira,4310330.0
+alto rio novo,4310363.0
+alvorada,4310405.0
+americana,4310413.0
+ananindeua,4310439.0
+angra dos reis,4310462.0
+anta gorda,4310504.0
+anápolis,4310538.0
+aparecida de goiânia,4310553.0
+apodi,4310579.0
+aquiraz,4310603.0
+aracaju,4310652.0
+aracruz,4310702.0
+araguari,4310751.0
+araguaína,4310801.0
+arapongas,4310850.0
+araranguá,4310876.0
+araraquara,4310900.0
+araruama,4311007.0
+araruna,4311106.0
+araucária,4311122.0
+araçatuba,4311130.0
+arcos,4311155.0
+arraial do cabo,4311205.0
+arujá,4311239.0
+assis chateaubriand,4311254.0
+assis,4311270.0
+atibaia,4311304.0
+açailândia,4311403.0
+açu,4311429.0
+bagé,4311502.0
+balneário camboriú,4311601.0
+barbacena,4311627.0
+barcarena,4311643.0
+barra mansa,4311700.0
+barra do piraí,4311718.0
+barra do rocha,4311734.0
+barra,4311759.0
+barreiras,4311775.0
+barueri,4311791.0
+batayporã,4311809.0
+bauru,4311908.0
+baía formosa,4311981.0
+beberibe,4312054.0
+belmonte,4312104.0
+belo horizonte,4312138.0
+belo jardim,4312153.0
+belém,4312203.0
+benevides,4312252.0
+bento gonçalves,4312302.0
+betim,4312351.0
+biguaçu,4312377.0
+blumenau,4312385.0
+boa esperança,4312401.0
+boa vista,4312427.0
+boca do acre,4312443.0
+bom despacho,4312450.0
+bom jesus de goiás,4312476.0
+bonfim,4312500.0
+botucatu,4312609.0
+brasília,4312617.0
+braço do norte,4312658.0
+brodowski,4312674.0
+brumado,4312708.0
+brusque,4312757.0
+cabedelo,4312807.0
+cabo de santo agostinho,4312906.0
+cachoeira paulista,4313003.0
+cachoeira do sul,4313037.0
+cachoeira,4313060.0
+cachoeirinha,4313086.0
+cachoeiro de itapemirim,4313102.0
+caicó,4313201.0
+cajamar,4313300.0
+caldas novas,4313359.0
+camaquã,4313375.0
+camaragibe,4313391.0
+camaçari,4313409.0
+camboriú,4313425.0
+cambé,4313441.0
+campestre de goiás,4313466.0
+campina grande do sul,4313490.0
+campina grande,4313508.0
+campinas,4313607.0
+campo belo,4313656.0
+campo bom,4313706.0
+campo grande,4313805.0
+campo largo,4313904.0
+campo maior,4313953.0
+campo mourão,4314001.0
+campo novo do parecis,4314027.0
+campos altos,4314035.0
+campos dos goytacazes,4314050.0
+canarana,4314068.0
+candeias,4314076.0
+canelinha,4314100.0
+canguçu,4314134.0
+canindé,4314159.0
+canoas,4314175.0
+cantá,4314209.0
+capela,4314308.0
+capitólio,4314407.0
+capão da canoa,4314423.0
+caraúbas,4314456.0
+cariacica,4314464.0
+carlos barbosa,4314472.0
+carmo da cachoeira,4314498.0
+carmo do cajuru,4314506.0
+caruaru,4314548.0
+cascavel,4314555.0
+castanhal,4314605.0
+castelo,4314704.0
+castro,4314753.0
+catalão,4314779.0
+catu,4314787.0
+caucaia,4314803.0
+caxias do sul,4314902.0
+ceará-mirim,4315008.0
+cedral,4315057.0
+cerro grande do sul,4315073.0
+chapecó,4315107.0
+charqueadas,4315131.0
+chopinzinho,4315149.0
+cianorte,4315156.0
+cidade ocidental,4315172.0
+coaraci,4315206.0
+colatina,4315305.0
+conceição do jacuípe,4315321.0
+conde,4315354.0
+contagem,4315404.0
+contenda,4315453.0
+cornélio procópio,4315503.0
+coronel fabriciano,4315552.0
+cotia,4315602.0
+cravinhos,4315701.0
+criciúma,4315750.0
+cruzeiro do sul,4315800.0
+cuiabá,4315909.0
+curitiba,4315958.0
+diadema,4316006.0
+dianópolis,4316105.0
+dias d'ávila,4316204.0
+divinópolis,4316303.0
+dois irmãos,4316402.0
+dom pedrito,4316428.0
+dourados,4316436.0
+dracena,4316451.0
+duque de caxias,4316477.0
+eldorado do sul,4316501.0
+embu das artes,4316600.0
+erechim,4316709.0
+esmeraldas,4316733.0
+estrela,4316758.0
+estância velha,4316808.0
+eusébio,4316907.0
+extrema,4316956.0
+farias brito,4316972.0
+farroupilha,4317004.0
+faxinal,4317103.0
+fazenda rio grande,4317202.0
+feira de santana,4317251.0
+ferraz de vasconcelos,4317301.0
+florianópolis,4317400.0
+fortaleza,4317509.0
+fortim,4317558.0
+foz do iguaçu,4317608.0
+franca,4317707.0
+francisco beltrão,4317756.0
+francisco morato,4317806.0
+franco da rocha,4317905.0
+fundão,4317954.0
+gandu,4318002.0
+garibaldi,4318051.0
+gaspar,4318101.0
+goiana,4318200.0
+goianésia do pará,4318309.0
+goianésia,4318408.0
+goioerê,4318424.0
+goiânia,4318432.0
+governador valadares,4318440.0
+gravatal,4318457.0
+gravataí,4318465.0
+guapimirim,4318481.0
+guaraniaçu,4318507.0
+guarapari,4318606.0
+guarapuava,4318614.0
+guararapes,4318622.0
+guarujá,4318705.0
+guarulhos,4318804.0
+guaíba,4318903.0
+guaíra,4319000.0
+guimarânia,4319109.0
+hidrolândia,4319125.0
+horizonte,4319158.0
+hortolândia,4319208.0
+ibaiti,4319307.0
+ibema,4319356.0
+icó,4319364.0
+igaracy,4319372.0
+iguaba grande,4319406.0
+ilhéus,4319505.0
+imbituba,4319604.0
+imperatriz,4319703.0
+indaial,4319711.0
+indaiatuba,4319752.0
+ipaporanga,4319802.0
+ipatinga,4319901.0
+ipiaú,4320008.0
+ipubi,4320107.0
+iracemápolis,4320206.0
+irati,4320263.0
+iretama,4320305.0
+itabaiana,4320321.0
+itabira,4320354.0
+itaboraí,4320404.0
+itabuna,4320453.0
+itacoatiara,4320503.0
+itagibá,4320552.0
+itaguaí,4320578.0
+itaitinga,4320651.0
+itaituba,4320677.0
+itajaí,4320701.0
+itajuípe,4320800.0
+itamaraju,4320859.0
+itanhaém,4320909.0
+itapajé,4321006.0
+itapecerica da serra,4321105.0
+itapema,4321204.0
+itapemirim,4321303.0
+itapetinga,4321329.0
+itapevi,4321352.0
+itapipoca,4321402.0
+itapira,4321436.0
+itapiranga,4321451.0
+itaquaquecetuba,4321469.0
+itararé,4321477.0
+itororó,4321493.0
+itu,4321501.0
+itumbiara,4321600.0
+itupeva,4321626.0
+ivoti,4321667.0
+jaboatão dos guararapes,4321709.0
+jaboticabal,4321808.0
+jaguaribe,4321832.0
+jaguariúna,4321857.0
+jaguaruna,4321907.0
+jaraguá do sul,4321956.0
+jaru,4322004.0
+jataí,4322103.0
+jaú,4322152.0
+jequié,4322186.0
+ji-paraná,4322202.0
+joaçaba,4322251.0
+joinville,4322301.0
+josé bonifácio,4322327.0
+joão pessoa,4322350.0
+juazeiro do norte,4322376.0
+juazeiro,4322400.0
+juiz de fora,4322509.0
+junco do seridó,4322525.0
+jundiaí,4322533.0
+lages,4322541.0
+lagoa da prata,4322558.0
+laguna,4322608.0
+lajeado,4322707.0
+lapa,4322806.0
+lavras,4322855.0
+lençóis paulista,4322905.0
+leópolis,4323002.0
+limeira,4323101.0
+linhares,4323200.0
+londrina,4323309.0
+louveira,4323358.0
+lucas do rio verde,4323408.0
+luziânia,4323457.0
+luís gomes,4323507.0
+macapá,4323606.0
+macaé,4323705.0
+macaíba,4323754.0
+maceió,4323770.0
+mafra,4323804.0
+magé,5000203.0
+mairiporã,5000252.0
+manacapuru,5000609.0
+manaus,5000708.0
+mandirituba,5000807.0
+mangaratiba,5000856.0
+manhuaçu,5000906.0
+marabá,5001003.0
+maracanaú,5001102.0
+maranguape,5001243.0
+marau,5001508.0
+marechal cândido rondon,5001904.0
+marechal deodoro,5002001.0
+mariana,5002100.0
+maringá,5002159.0
+marituba,5002209.0
+mariópolis,5002308.0
+marília,5002407.0
+matinhos,5002605.0
+matão,5002704.0
+mauriti,5002803.0
+mauá,5002902.0
+medeiros neto,5002951.0
+medianeira,5003108.0
+miguel pereira,5003157.0
+mogi guaçu,5003207.0
+mogi das cruzes,5003256.0
+monte alegre,5003306.0
+morro da fumaça,5003454.0
+mossoró,5003488.0
+muriaé,5003504.0
+nanuque,5003702.0
+natal,5003751.0
+navegantes,5003801.0
+nilópolis,5003900.0
+niterói,5004007.0
+nossa senhora da glória,5004106.0
+nova andradina,5004304.0
+nova friburgo,5004403.0
+nova iguaçu,5004502.0
+nova lima,5004601.0
+nova monte verde,5004700.0
+nova mutum,5004809.0
+nova odessa,5004908.0
+nova palma,5005004.0
+nova soure,5005103.0
+nova veneza,5005152.0
+novo airão,5005202.0
+novo hamburgo,5005251.0
+novo progresso,5005400.0
+oiapoque,5005608.0
+orlândia,5005681.0
+osasco,5005707.0
+osório,5005806.0
+palhoça,5006002.0
+palmares,5006200.0
+palmas,5006259.0
+palmas,5006275.0
+palmeira,5006309.0
+papanduva,5006358.0
+paranaguá,5006408.0
+paranaiguara,5006606.0
+paranavaí,5006903.0
+parauapebas,5007109.0
+paraí,5007208.0
+paraíba do sul,5007307.0
+pariquera-açu,5007406.0
+parnamirim,5007505.0
+parnaíba,5007554.0
+passa e fica,5007695.0
+passo fundo,5007703.0
+pato branco,5007802.0
+patos de minas,5007901.0
+patos,5007935.0
+patrocínio,5007950.0
+paulista,5007976.0
+paulo lopes,5008008.0
+paulínia,5008305.0
+peabiru,5008404.0
+pedras grandes,5100102.0
+pelotas,5100201.0
+penápolis,5100250.0
+pescaria brava,5100300.0
+petrolina,5100359.0
+petrópolis,5100409.0
+pinhão,5100508.0
+piracicaba,5100607.0
+pirajuí,5100805.0
+piratini,5101001.0
+pojuca,5101209.0
+pomerode,5101258.0
+ponta grossa,5101308.0
+ponta porã,5101407.0
+porciúncula,5101605.0
+porto acre,5101704.0
+porto alegre,5101803.0
+porto belo,5101852.0
+porto feliz,5101902.0
+porto real do colégio,5102504.0
+porto seguro,5102603.0
+porto velho,5102637.0
+pouso alegre,5102678.0
+poá,5102686.0
+poços de caldas,5102694.0
+prado,5102702.0
+praia grande,5102793.0
+promissão,5102850.0
+propriá,5103007.0
+quatiguá,5103056.0
+quatro barras,5103106.0
+quixadá,5103205.0
+rancho queimado,5103254.0
+recife,5103304.0
+resende,5103353.0
+ribeirão pires,5103361.0
+ribeirão preto,5103379.0
+rio bonito,5103403.0
+rio branco do sul,5103437.0
+rio branco,5103452.0
+rio claro,5103502.0
+rio grande,5103601.0
+rio negro,5103700.0
+rio verde de mato grosso,5103809.0
+rio verde,5103858.0
+rio das ostras,5103908.0
+rio de janeiro,5103957.0
+rolante,5104104.0
+rolândia,5104203.0
+rondonópolis,5104500.0
+sabará,5104526.0
+salto de pirapora,5104542.0
+salvador,5104559.0
+sant'ana do livramento,5104609.0
+santa branca,5104807.0
+santa cruz cabrália,5104906.0
+santa isabel,5105002.0
+santa luzia,5105101.0
+santa maria,5105150.0
+santa quitéria,5105176.0
+santa rosa,5105200.0
+santa teresa,5105234.0
+santana de parnaíba,5105259.0
+santana do paraíso,5105309.0
+santarém,5105507.0
+santiago,5105580.0
+santo andré,5105606.0
+santo antônio da patrulha,5105622.0
+santo antônio do monte,5105903.0
+santo antônio,5106000.0
+santos,5106109.0
+sapiranga,5106158.0
+sapucaia do sul,5106174.0
+sarandi,5106182.0
+senador canedo,5106190.0
+serafina corrêa,5106208.0
+seropédica,5106216.0
+serra branca,5106224.0
+serra do salitre,5106232.0
+serra,5106240.0
+sete lagoas,5106257.0
+siderópolis,5106265.0
+sidrolândia,5106273.0
+silvânia,5106281.0
+simões filho,5106299.0
+sinop,5106307.0
+sobral,5106315.0
+sombrio,5106372.0
+sooretama,5106422.0
+sorocaba,5106455.0
+sousa,5106505.0
+suzano,5106703.0
+são bernardo do campo,5106752.0
+são caetano do sul,5106778.0
+são domingos do sul,5106802.0
+são domingos,5106828.0
+são francisco do sul,5106851.0
+são gabriel,5107008.0
+são geraldo do araguaia,5107040.0
+são gonçalo do amarante,5107065.0
+são gonçalo,5107107.0
+são josé de mipibu,5107156.0
+são josé de ribamar,5107180.0
+são josé do divino,5107198.0
+são josé do rio pardo,5107206.0
+são josé do rio preto,5107248.0
+são josé dos campos,5107263.0
+são josé dos pinhais,5107297.0
+são josé,5107305.0
+são joão del rei,5107354.0
+são leopoldo,5107404.0
+são lourenço da mata,5107578.0
+são lourenço do oeste,5107602.0
+são ludgero,5107701.0
+são luís de montes belos,5107743.0
+são luís,5107750.0
+são manoel do paraná,5107768.0
+são manuel,5107776.0
+são mateus,5107792.0
+são paulo,5107800.0
+são pedro da aldeia,5107859.0
+são pedro,5107875.0
+são roque do canaã,5107883.0
+são sebastião do caí,5107909.0
+são sebastião,5107925.0
+são vicente,5107941.0
+taboão da serra,5107958.0
+tangará da serra,5108006.0
+taquara,5108055.0
+taquari,5108105.0
+tatuí,5108204.0
+taubaté,5108303.0
+teixeira de freitas,5108352.0
+telêmaco borba,5108402.0
+teresina,5108501.0
+teresópolis,5108600.0
+terra boa,5108857.0
+terra rica,5108907.0
+tianguá,5108956.0
+tibau,5200050.0
+tijucas,5200100.0
+timbé do sul,5200134.0
+timon,5200159.0
+timóteo,5200175.0
+toledo,5200209.0
+torres,5200258.0
+tramandaí,5200308.0
+trindade,5200555.0
+três lagoas,5200605.0
+três rios,5200803.0
+tubarão,5200852.0
+tucuruí,5200902.0
+uberaba,5201108.0
+uberlândia,5201207.0
+umuarama,5201306.0
+unaí,5201405.0
+união da vitória,5201454.0
+uruguaiana,5201603.0
+urussanga,5201702.0
+uruçuca,5201801.0
+utinga,5202155.0
+valença,5202353.0
+valinhos,5202502.0
+valparaíso de goiás,5202601.0
+vargem grande paulista,5202809.0
+varginha,5203104.0
+verê,5203203.0
+viamão,5203302.0
+viana,5203401.0
+vila maria,5203500.0
+vila velha,5203559.0
+vinhedo,5203575.0
+vitória da conquista,5203609.0
+vitória,5203807.0
+volta redonda,5203906.0
+votorantim,5203939.0
+votuporanga,5204003.0
+várzea grande,5204102.0
+águas lindas de goiás,5204201.0
+águas de lindóia,5204250.0
+abaetetuba,5204300.0
+acrelândia,5204409.0
+adamantina,5204508.0
+adustina,5204607.0
+afonso cláudio,5204656.0
+agudos,5204706.0
+alagoinhas,5204805.0
+alcinópolis,5204854.0
+alegrete,5204904.0
+alfenas,5204953.0
+aliança,5205000.0
+alta floresta,5205059.0
+altamira,5205109.0
+alto rio novo,5205208.0
+alvorada,5205307.0
+americana,5205406.0
+ananindeua,5205455.0
+angra dos reis,5205471.0
+anta gorda,5205497.0
+anápolis,5205513.0
+aparecida de goiânia,5205521.0
+apodi,5205703.0
+aquiraz,5205802.0
+aracaju,5205901.0
+aracati,5206206.0
+aracruz,5206305.0
+araguari,5206404.0
+araguaína,5206503.0
+arapongas,5206602.0
+araranguá,5206701.0
+araraquara,5206800.0
+araruama,5206909.0
+araruna,5207105.0
+araucária,5207253.0
+araçatuba,5207352.0
+arcos,5207402.0
+areia branca,5207501.0
+arraial do cabo,5207535.0
+arroio do sal,5207600.0
+arujá,5207808.0
+assis chateaubriand,5207907.0
+assis,5208004.0
+atibaia,5208103.0
+açailândia,5208152.0
+açu,5208301.0
+bagé,5208400.0
+balneário camboriú,5208509.0
+balsa nova,5208608.0
+barbacena,5208707.0
+barcarena,5208806.0
+barra mansa,5208905.0
+barra do piraí,5209101.0
+barra do rocha,5209150.0
+barra,5209200.0
+barreiras,5209408.0
+barueri,5209457.0
+batayporã,5209606.0
+bauru,5209705.0
+baía formosa,5209804.0
+beberibe,5209903.0
+belmonte,5209937.0
+belo horizonte,5209952.0
+belo jardim,5210000.0
+belém,5210109.0
+benevides,5210158.0
+bento gonçalves,5210208.0
+betim,5210307.0
+biguaçu,5210406.0
+blumenau,5210562.0
+boa esperança,5210604.0
+boa vista,5210802.0
+boca do acre,5210901.0
+bom despacho,5211008.0
+bom jesus de goiás,5211206.0
+bonfim,5211305.0
+botucatu,5211404.0
+brasília,5211503.0
+braço do norte,5211602.0
+brodowski,5211701.0
+brumado,5211800.0
+brusque,5211909.0
+cabedelo,5212006.0
+cabo de santo agostinho,5212055.0
+cachoeira paulista,5212105.0
+cachoeira do sul,5212204.0
+cachoeira,5212303.0
+cachoeirinha,5212501.0
+cachoeiro de itapemirim,5212600.0
+caicó,5212709.0
+cajamar,5212808.0
+caldas novas,5212907.0
+camaquã,5212956.0
+camaragibe,5213004.0
+camaçari,5213053.0
+camboriú,5213087.0
+cambé,5213103.0
+campestre de goiás,5213400.0
+campina grande do sul,5213509.0
+campina grande,5213707.0
+campinas,5213756.0
+campo belo,5213772.0
+campo bom,5213806.0
+campo grande,5213855.0
+campo largo,5213905.0
+campo maior,5214002.0
+campo mourão,5214051.0
+campo novo do parecis,5214101.0
+campos altos,5214408.0
+campos dos goytacazes,5214507.0
+canarana,5214606.0
+candeias,5214705.0
+canelinha,5214804.0
+canguçu,5214838.0
+canindé,5214861.0
+canoas,5214879.0
+cantá,5214903.0
+capela,5215009.0
+capitólio,5215207.0
+capão da canoa,5215231.0
+caraúbas,5215256.0
+cariacica,5215306.0
+cariús,5215405.0
+carlos barbosa,5215504.0
+carmo da cachoeira,5215603.0
+carmo do cajuru,5215652.0
+caruaru,5215702.0
+cascavel,5215801.0
+castanhal,5215900.0
+castelo,5216007.0
+castro,5216304.0
+catalão,5216403.0
+catu,5216452.0
+caucaia,5216809.0
+caxias do sul,5216908.0
+ceará-mirim,5217104.0
+cedral,5217203.0
+cerro grande do sul,5217302.0
+chapadão do sul,5217401.0
+chapecó,5217609.0
+charqueadas,5217708.0
+chopinzinho,5218003.0
+cianorte,5218052.0
+cidade ocidental,5218102.0
+coaraci,5218300.0
+colatina,5218391.0
+conceição do jacuípe,5218508.0
+conde,5218607.0
+contagem,5218706.0
+contenda,5218789.0
+cornélio procópio,5218805.0
+coronel fabriciano,5218904.0
+cotia,5219001.0
+cravinhos,5219100.0
+criciúma,5219209.0
+cruzeiro do sul,5219258.0
+cuiabá,5219308.0
+curitiba,5219357.0
+diadema,5219407.0
+dianópolis,5219456.0
+dias d'ávila,5219506.0
+divinópolis,5219605.0
+dois irmãos,5219704.0
+dom pedrito,5219712.0
+dourados,5219738.0
+dracena,5219753.0
+duque de caxias,5219803.0
+eldorado do sul,5219902.0
+embu das artes,5220009.0
+erechim,5220058.0
+esmeraldas,5220108.0
+esteio,5220157.0
+estrela,5220207.0
+estância velha,5220405.0
+eusébio,5220454.0
+extrema,5220504.0
+farias brito,5220603.0
+farroupilha,5220686.0
+faxinal,5220702.0
+fazenda rio grande,5221007.0
+feira de santana,5221080.0
+ferraz de vasconcelos,5221197.0
+florianópolis,5221304.0
+fortaleza,5221403.0
+fortim,5221452.0
+foz do iguaçu,5221502.0
+franca,5221551.0
+francisco beltrão,5221577.0
+francisco morato,5221601.0
+franco da rocha,5221700.0
+fundão,5221809.0
+gandu,5221858.0
+garibaldi,5221908.0
+gaspar,5222005.0
+goiana,5222054.0
+goianésia do pará,5222203.0
+goianésia,5222302.0
+goioerê,5300108.0

@@ -54,6 +54,7 @@ def extractor(file, network, full_path, name, isAereal): # This function extract
             date = dataFrame['date'][index]
             geoc = float(dataFrame['ibgeID'][index])
             state = dataFrame['state'][index].upper()
+            
             if cid in g_cities and geoc in g_geocode:
                 geocode.append(geoc)
                 cities.append(cid)
@@ -82,17 +83,19 @@ def extractor(file, network, full_path, name, isAereal): # This function extract
 
 
 def filter(network, city_cases, name, isAereal):
-    length = len(city_cases['Geocode'])
+    length = network.vcount()
     geocode =[]
     datas =[]
     utps=[]
     estados=[]
     cidades=[]
     
+    dfGeocode = list(city_cases['Geocode'])
+    
     for index in range(length):
         
-        if not float(city_cases['Geocode'][index]) in geocode:
-            geocode.append(float(city_cases['Geocode'][index]))
+        if (not dfGeocode[index] in geocode) and (dfGeocode[index] in list(network.vs['geocode'])):
+            geocode.append(city_cases['Geocode'][index])
             datas.append(city_cases['Datas'][index])
             if isAereal:
                 utps.append(city_cases['UTP'][index])

@@ -14,9 +14,49 @@ import matplotlib.pyplot as plt
 
 
 
+
+
+def teste(graph, metric):
+    
+    peso = None
+    
+    if metric == "strength" or "betweenness_w":
+        peso = graph.es['weight']
+        peso = [0.001 if x <= 0 else x for x in peso]
+
+    
+    weighted =[]
+    if metric == "strength":
+        weighted =  graph.strength(weights=peso)
+    else:
+        # print(peso)
+        weighted =  graph.betweenness(weights=peso)
+
+    
+    done =None
+    if metric == "degree":
+        temp =[]
+        # done = [[x, graph.degree(x), graph.vs['label'][x], graph.vs['geocode'][x]] for x in range(graph.vcount())],
+        for x in range(graph.vcount()):
+            temp.append([x, graph.degree(x), graph.vs['label'][x], graph.vs['geocode'][x]])
+            done =temp
+    elif metric == "betweenness":
+        done = [[x, graph.betweenness(x), graph.vs['label'][x], graph.vs['geocode'][x]] for x in range(graph.vcount())],
+    elif metric == "strength":
+        done = [[index, x, graph.vs['label'][index], graph.vs['geocode'][index]] for index, x in enumerate(weighted)],
+    else:
+        done = [[index, x, graph.vs['label'][index], graph.vs['geocode'][index]] for index, x in enumerate(weighted)]    
+    
+    done = sorted(done, key=lambda data: data[1], reverse=True)
+    return done
+
+
 def sort_by_metric(graph, metric, name):
-    peso = graph.es['weight']
-    peso = [0.001 if x <= 0 else x for x in peso]
+    peso = None
+    
+    if metric == "strength" or "betweenness_w":
+        peso = graph.es['weight']
+        peso = [0.001 if x <= 0 else x for x in peso]
     
     weighted =[]
     if metric == "strength":
@@ -97,6 +137,9 @@ def mapeador(cities, sorted_by_metrics, name):
     net_index=[-1]*len(cities['Cidades'])
     cid_index=[x for x in range(len(cities['Cidades']))]
     for index, node in enumerate(sorted_by_metrics):
+        # print('mapper geo ')
+        # print(node[3])
+        # print('-----------------------')
         i = list(cities['Geocode']).index(node[3])
         net_index[index]=i
 
