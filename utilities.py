@@ -34,19 +34,32 @@ def teste(graph, metric):
 
     
     done =None
+    
     if metric == "degree":
         temp =[]
-        # done = [[x, graph.degree(x), graph.vs['label'][x], graph.vs['geocode'][x]] for x in range(graph.vcount())],
         for x in range(graph.vcount()):
             temp.append([x, graph.degree(x), graph.vs['label'][x], graph.vs['geocode'][x]])
             done =temp
     elif metric == "betweenness":
-        done = [[x, graph.betweenness(x), graph.vs['label'][x], graph.vs['geocode'][x]] for x in range(graph.vcount())],
+        done = [[x, graph.betweenness(x), graph.vs['label'][x], graph.vs['geocode'][x]] for x in range(graph.vcount())]
+        temp =[]
+        for x in range(graph.vcount()):
+            temp.append([x, graph.betweenness(x), graph.vs['label'][x], graph.vs['geocode'][x]])
+            done =temp
+            
     elif metric == "strength":
-        done = [[index, x, graph.vs['label'][index], graph.vs['geocode'][index]] for index, x in enumerate(weighted)],
+        temp =[]
+        for index, x in enumerate(weighted):
+            temp.append([index, x, graph.vs['label'][index], graph.vs['geocode'][index]])
+            done =temp
+    
     else:
         done = [[index, x, graph.vs['label'][index], graph.vs['geocode'][index]] for index, x in enumerate(weighted)]    
-    
+        temp=[]
+        for index, x in enumerate(weighted):
+            temp.append([index, x, graph.vs['label'][index], graph.vs['geocode'][index]])
+            done =temp
+            
     done = sorted(done, key=lambda data: data[1], reverse=True)
     return done
 
@@ -116,7 +129,9 @@ def correspondence_builder(cities, sorted_by_metric):
     list_of_correspondence=[]
     
     for index, geocode in enumerate(cities):
+        
         list_of_correspondence.append(float(counter(index+1, sorted_by_metric, cities)/(index+1)))
+        
     return list_of_correspondence
 
 
@@ -134,15 +149,19 @@ def correspondence_builder(cities, sorted_by_metric):
 
 def mapeador(cities, sorted_by_metrics, name):
     
-    net_index=[-1]*len(cities['Cidades'])
-    cid_index=[x for x in range(len(cities['Cidades']))]
+    net_index=[]
+    cid_index=[]
+    ausentes=[]
     for index, node in enumerate(sorted_by_metrics):
-        # print('mapper geo ')
-        # print(node[3])
-        # print('-----------------------')
-        i = list(cities['Geocode']).index(node[3])
-        net_index[index]=i
-
+        try:
+            i = list(cities['Geocode']).index(node[3])
+            cid_index.append(i)
+            net_index.append(index)
+        except:
+            ausentes.append(node[3])
+    
+    print(f'cid : {len(cid_index)}')
+    print(f'net : {len(net_index)}')
     return spearmanr(cid_index, net_index)
 
 
@@ -164,3 +183,15 @@ def graphPloter(list_of_coord, labels, name="teste"):
     plt.title(name)
     dirMaker('output')
     plt.savefig('output/'+name+'.png')
+
+
+
+def indexFilter(geocodes, graph):
+    index=0
+    list_of_index=[]
+    
+    for geo in graph.vs['geocode']:
+        if geo in geocodes:
+            list_of_index.append(index)
+            index+=1
+    return list_of_index

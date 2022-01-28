@@ -82,36 +82,40 @@ def extractor(file, network, full_path, name, isAereal): # This function extract
     
 
 
-def filter(network, city_cases, name, isAereal):
+def filter(network, city_cases, name):
+    
     length = network.vcount()
     geocode =[]
     datas =[]
     utps=[]
-    estados=[]
+    ausente=[]
     cidades=[]
     
-    dfGeocode = list(city_cases['Geocode'])
+
     
-    for index in range(length):
-        
-        if (not dfGeocode[index] in geocode) and (dfGeocode[index] in list(network.vs['geocode'])):
-            geocode.append(city_cases['Geocode'][index])
-            datas.append(city_cases['Datas'][index])
-            if isAereal:
-                utps.append(city_cases['UTP'][index])
-            estados.append(city_cases['Estados'][index])
-            cidades.append(city_cases['Cidades'][index])
+    for i, geo in enumerate(network.vs['geocode']):
+        try:
+            index = list(city_cases['Geocode']).index(geo)
+            geocode.append(geo)
+            cidades.append(network.vs['label'][i])
+        except:
+            ausente.append(geo)            
+    
+    
+    print(f'len net: {network.vcount()}')
+    print(f'len cidades: {len(cidades)}')
     
     df = {}
-    df['Datas'] = datas
+    # df['Datas'] = datas
     df['Cidades'] = cidades
-    df['Estados'] = estados
+    # df['Estados'] = estados
     df['Geocode'] = geocode
-    if isAereal:
-        df['UTP'] = utps
+    # if isAereal:
+    #     df['UTP'] = utps
     df = pd.DataFrame(df)
     _path = 'Filtrados'
     dirMaker(_path)
     
+    pd.DataFrame({'Ausentes':ausente}).to_csv(_path+'/ausentes_terrestrial.csv', index=False)
     df.to_csv(_path+'/'+name+'.csv')
             
